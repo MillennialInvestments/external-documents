@@ -1,0 +1,4524 @@
+0:0:0.0 --> 0:0:0.710
+Jeffrey Warwick
+Can you guys hear me?
+0:0:0.760 --> 0:0:1.720
+Jeffrey Warwick
+Sorry, I've been talking quietly.
+0:0:3.630 --> 0:0:3.830
+Adrian Garcia
+Yep.
+0:0:3.200 --> 0:0:4.230
+Speaker 1
+Yeah, we can hear you better now.
+0:0:4.700 --> 0:0:5.810
+Adrian Garcia
+And I did start recording.
+0:0:5.820 --> 0:0:9.660
+Adrian Garcia
+So we'll have a we'll have this dereference, absolutely.
+0:0:9.510 --> 0:0:10.110
+Speaker 1
+Perfect.
+0:0:10.120 --> 0:0:10.460
+Speaker 1
+Thank you.
+0:0:11.250 --> 0:0:15.720
+Jeffrey Warwick
+Umm to everyone I have this quote that I've already edited.
+0:0:15.970 --> 0:0:17.350
+Jeffrey Warwick
+I've added products to it.
+0:0:17.360 --> 0:0:24.360
+Jeffrey Warwick
+This has an Ethernet 50 Meg bandwidth product on it, so Ethernet would need to go through the SE.
+0:0:25.210 --> 0:0:27.160
+Jeffrey Warwick
+So basically I create my quote.
+0:0:27.770 --> 0:0:30.560
+Jeffrey Warwick
+Let's say I forgot the task my see in this instance.
+0:0:30.790 --> 0:0:35.380
+Jeffrey Warwick
+When I go to submit my quote for approval, I'll be able to enter whatever I want.
+0:0:38.810 --> 0:0:41.130
+Jeffrey Warwick
+Usually it should be a, you know.
+0:0:41.810 --> 0:0:46.450
+Jeffrey Warwick
+Explanation for why this needs to be approved and why it's going to the approval that's going for.
+0:0:47.890 --> 0:0:50.620
+Jeffrey Warwick
+But in this case I'm gonna breeze through that and submit it.
+0:0:51.850 --> 0:0:58.800
+Jeffrey Warwick
+So in this instance, since I have Ethernet on the quote, it's gonna create 2 approvals for me.
+0:0:58.890 --> 0:1:3.140
+Jeffrey Warwick
+One is gonna go through the SE 1st now and then the other one.
+0:1:3.150 --> 0:1:4.170
+Jeffrey Warwick
+Oh, it looks like it didn't even work.
+0:1:5.380 --> 0:1:7.590
+Jeffrey Warwick
+Hang on, that's confirm.
+0:1:13.210 --> 0:1:14.80
+Jeffrey Warwick
+Technical difficulties.
+0:1:19.810 --> 0:1:20.410
+Jeffrey Warwick
+Let's try it again.
+0:1:24.770 --> 0:1:27.111
+Speaker 1
+And just and just while he's E.
+0:1:28.530 --> 0:1:28.840
+Speaker 1
+As you.
+0:1:28.910 --> 0:1:29.50
+Speaker 1
+See.
+0:1:29.590 --> 0:1:30.820
+Speaker 1
+It said price floor exception.
+0:1:31.470 --> 0:1:32.70
+Speaker 1
+Because.
+0:1:33.390 --> 0:1:34.660
+Jeffrey Warwick
+Yeah, there it.
+0:1:34.670 --> 0:1:34.710
+Jeffrey Warwick
+Is.
+0:1:32.790 --> 0:1:40.250
+Speaker 1
+If it does have a pipe price for exception, it'll go through that same approval, so you don't have to do 2 approvals if it doesn't.
+0:1:40.360 --> 0:1:40.570
+Speaker 1
+Have a.
+0:1:40.630 --> 0:1:41.610
+Speaker 1
+Price floor exception.
+0:1:41.620 --> 0:1:48.80
+Speaker 1
+You wouldn't see that drop down if it did have a price floor exception, then you will see that drop down as well.
+0:1:48.90 --> 0:1:53.740
+Speaker 1
+So no additional action from you, all from the AE from this standpoint.
+0:1:54.760 --> 0:2:0.970
+Jeffrey Warwick
+You're correct and as you can see, you can see there's two approvals that are sent over here.
+0:2:0.980 --> 0:2:2.950
+Jeffrey Warwick
+One of them is the new SE approval.
+0:2:3.140 --> 0:2:6.150
+Jeffrey Warwick
+So as I'm logged in as Cody, the the Tim is his AZ.
+0:2:6.580 --> 0:2:8.430
+Jeffrey Warwick
+The first approval will go through him.
+0:2:8.600 --> 0:2:14.460
+Jeffrey Warwick
+If you guys have communicated with your SE, they'll basically have their work done already and approve this right away.
+0:2:14.470 --> 0:2:26.200
+Jeffrey Warwick
+So it'll just move right into the next stage of approval, which is the E, the E the product floor approval, which is the next stage and then it'll go to the standard financial approval after that.
+0:2:26.820 --> 0:2:34.980
+Jeffrey Warwick
+So it's just a new first step and only when the specific and specified products that we'll lay out for you have been selected in a quote.
+0:2:37.480 --> 0:2:40.580
+Speaker 1
+And it would also, once everything is approved, the status.
+0:2:43.150 --> 0:2:43.420
+Jeffrey Warwick
+Mm-hmm.
+0:2:40.590 --> 0:2:47.710
+Speaker 1
+So right now you see that is in review, so once it is approved, it'll go to the approved status.
+0:2:47.880 --> 0:2:49.320
+Speaker 1
+So let's say that there.
+0:2:49.600 --> 0:2:51.770
+Speaker 1
+Not a financial approval.
+0:2:58.340 --> 0:2:58.540
+Jeffrey Warwick
+Mm-hmm.
+0:2:51.780 --> 0:3:3.770
+Speaker 1
+It's only a SE approval and a product floor approval then it will, you know, then it's just the AE, it'll automatically go to approved for you.
+0:3:4.590 --> 0:3:6.990
+Speaker 1
+So you are good to go with that.
+0:3:8.360 --> 0:3:14.760
+Speaker 1
+So any questions on what you'll see Monday, July 17th?
+0:3:19.660 --> 0:3:19.840
+Jeffrey Warwick
+No.
+0:3:21.310 --> 0:3:21.530
+Jeffrey Warwick
+OK.
+0:3:20.940 --> 0:3:26.220
+Speaker 1
+Alrighty, Hayden, would you like to add anything to this from the SE perspective?
+0:3:26.150 --> 0:3:26.600
+Hayden Tuttle
+No, ma'am.
+0:3:27.660 --> 0:3:28.70
+Hayden Tuttle
+All good.
+0:3:27.940 --> 0:3:30.660
+Speaker 1
+Alright, thank you so much, Jeffrey.
+0:3:31.720 --> 0:3:32.40
+Jeffrey Warwick
+This one.
+0:3:29.520 --> 0:3:34.810
+Adrian Garcia
+And this this is this is gonna be documented right in the in the Salesforce guide.
+0:3:35.640 --> 0:3:36.870
+Speaker 1
+Ohh absolutely.
+0:3:37.260 --> 0:3:37.440
+Adrian Garcia
+Yeah.
+0:3:36.880 --> 0:3:40.730
+Speaker 1
+So umm, so I will be updating the guide.
+0:3:40.740 --> 0:3:42.950
+Speaker 1
+I will be sitting that that out communication.
+0:3:43.20 --> 0:3:46.650
+Speaker 1
+So just be on the lookout for the communication from Gigi as well.
+0:3:46.780 --> 0:3:51.290
+Speaker 1
+It will have the link to the updated God, but you all know where to find it.
+0:3:51.300 --> 0:4:5.990
+Speaker 1
+If you don't know where to find it, I'll make sure that you know we tag it on this call or when she sends out the communication and has it has the the link to actual fund the the updated sales document.
+0:4:6.860 --> 0:4:7.750
+Adrian Garcia
+Yeah, we know we have.
+0:4:6.770 --> 0:4:8.0
+Speaker 1
+But if you don't know where it's at.
+0:4:7.760 --> 0:4:11.530
+Adrian Garcia
+We have a a lot of new AE S wouldn't hurt to be put it on the chat box.
+0:4:12.840 --> 0:4:13.790
+Speaker 1
+Absolutely, yeah.
+0:4:13.210 --> 0:4:13.900
++19037800999
+To see I have a.
+0:4:12.760 --> 0:4:22.970
+Adrian Garcia
+So and and just to remind everybody, we have we have, I mean I call them jobbies, but we have a full a resource area and sell in the SharePoint.
+0:4:22.980 --> 0:4:25.60
+Adrian Garcia
+You know that that walks through all the changes.
+0:4:25.70 --> 0:4:30.820
+Adrian Garcia
+How to submit you know and create quotes so you know always, always have that handy.
+0:4:31.30 --> 0:4:35.320
+Adrian Garcia
+I think sometimes you guys forget because we've normally not had a resource like that.
+0:4:36.400 --> 0:4:36.790
++19037800999
+Adrian.
+0:4:36.610 --> 0:4:37.70
+Speaker 1
+Absolutely.
+0:4:36.800 --> 0:4:37.250
++19037800999
+And does she?
+0:4:36.820 --> 0:4:37.450
+Adrian Garcia
+Just a reminder.
+0:4:37.260 --> 0:4:38.630
++19037800999
+I have a I have a question.
+0:4:38.720 --> 0:4:43.260
++19037800999
+I just what are the best practices for timelines for approval please?
+0:4:46.370 --> 0:4:46.860
+Speaker 1
+It is.
+0:4:46.940 --> 0:4:49.790
+Speaker 1
+Is this just related to the SE approval?
+0:4:50.850 --> 0:4:51.980
++19037800999
+Just I I mean it's fine.
+0:4:51.990 --> 0:4:53.800
++19037800999
+It could be the SE just the in.
+0:4:53.950 --> 0:4:55.930
++19037800999
+I would say the entire approval process as well.
+0:4:58.430 --> 0:4:59.140
+Adrian Garcia
+So I mean I.
+0:4:58.510 --> 0:5:5.110
+Speaker 1
+So I can't speak to the financial, but Adrian, can you speak to more of the on the initial piece of it?
+0:5:4.100 --> 0:5:5.790
+Adrian Garcia
+Yeah, I don't know if we have.
+0:5:6.70 --> 0:5:6.490
+Adrian Garcia
+I don't know.
+0:5:6.500 --> 0:5:18.500
+Adrian Garcia
+We have like an actual printed SLA, but I would say for the most part it's, you know, half a day if it's a little bit longer than that, it's probably because we need a little bit more information or somebody's traveling.
+0:5:18.510 --> 0:5:20.60
+Adrian Garcia
+But you know it shouldn't.
+0:5:20.110 --> 0:5:24.870
+Adrian Garcia
+It shouldn't be longer than half a day on the financial side.
+0:5:25.940 --> 0:5:32.40
+Adrian Garcia
+Now there's a couple more approvals that need to kind of go through that then then we might take a little bit longer.
+0:5:32.50 --> 0:5:36.550
+Adrian Garcia
+Like if there's a price floor thing or something like that, I don't know, but it doesn't hurt for you.
+0:5:36.600 --> 0:5:37.970
+Adrian Garcia
+Guys to shoot an email.
+0:5:37.980 --> 0:5:42.430
+Adrian Garcia
+You know, after if you guys needed right then and there and you don't get it within an hour, it's OK.
+0:5:42.440 --> 0:5:47.230
+Adrian Garcia
+It shouldn't email or shoot me a text or whoever it is that's it's assigned to.
+0:5:48.140 --> 0:5:50.50
+Adrian Garcia
+Shouldn't be that difficult for us to get through that?
+0:5:51.90 --> 0:5:52.740
+Grant Sullivan
+Yeah, you know, price, floor exceptions.
+0:5:52.750 --> 0:5:55.600
+Grant Sullivan
+You know Bob and not generally try to have that under 4 hours.
+0:5:56.90 --> 0:5:58.220
+Grant Sullivan
+I don't know if we've really gotten above that.
+0:5:58.230 --> 0:6:10.40
+Grant Sullivan
+Maybe we have a couple of times, but we try to approve those right away and sales engineering approvals will just whatever time is normally required for them to do their job.
+0:6:10.200 --> 0:6:11.820
+Grant Sullivan
+And the vet some stuff out.
+0:6:11.830 --> 0:6:14.470
+Grant Sullivan
+So it just whatever normal time that you're seeing that.
+0:6:14.550 --> 0:6:18.370
+Grant Sullivan
+And like Adrian said, the financial approvals, you know, talk pretty.
+0:6:18.440 --> 0:6:18.720
+Grant Sullivan
+Quick with.
+0:6:18.810 --> 0:6:18.870
+Grant Sullivan
+That.
+0:6:20.30 --> 0:6:20.40
++19152033436
+E.
+0:6:20.410 --> 0:6:21.250
+Grant Sullivan
+If you need something right away.
+0:6:21.730 --> 0:6:26.320
+Adrian Garcia
+And you know, keep practice there is just include notes and narrative. That always helps.
+0:6:27.390 --> 0:6:27.600
+Grant Sullivan
+Yeah.
+0:6:26.890 --> 0:6:28.860
+Adrian Garcia
+There's a few either rate with that.
+0:6:28.870 --> 0:6:32.220
+Adrian Garcia
+There's a few of you get that are not consistent at all with that.
+0:6:32.230 --> 0:6:38.120
+Adrian Garcia
+So if you put some notes around why you need the approval or whatever, that might be that, that's absolutely does help.
+0:6:38.960 --> 0:6:39.630
+Grant Sullivan
+It does.
+0:6:39.680 --> 0:6:39.970
+Grant Sullivan
+Uh.
+0:6:39.980 --> 0:6:42.550
+Grant Sullivan
+Context around that is is very helpful.
+0:6:42.660 --> 0:6:44.240
+Grant Sullivan
+You know, I do have seen some that come through.
+0:6:44.250 --> 0:6:45.120
+Grant Sullivan
+It just says please approve.
+0:6:46.550 --> 0:6:46.760
+Adrian Garcia
+Umm.
+0:6:46.280 --> 0:6:53.770
+Grant Sullivan
+You know that's that's little ambiguous, but if you know, give us some reasons and and help us understand it, we won't have to give you a call and we can just approve and move forward.
+0:6:56.210 --> 0:6:57.780
+Jeremy Cox
+So hey, this is this is Jeremy.
+0:6:57.790 --> 0:7:12.540
+Jeremy Cox
+I would say with the sales engineering approval, you know there's gonna be some instances, you know, like if we if we didn't get early engagement and you guys put 100 gig wave on a quote and then submit it for approval don't don't expect that that day right that's that's not gonna happen.
+0:7:12.550 --> 0:7:16.260
+Jeremy Cox
+That's probably coming back, and we're gonna have to have some conversations, you know, but if it's.
+0:7:16.630 --> 0:7:21.210
+Jeremy Cox
+It's IP justification over 5 IP addresses and we just need to look at it and have a conversation that's different.
+0:7:21.220 --> 0:7:21.680
+Jeremy Cox
+That's fast.
+0:7:21.690 --> 0:7:28.240
+Jeremy Cox
+So early engagement on complicated products is going to be key this speed up your group crosses.
+0:7:30.460 --> 0:7:31.60
+Hayden Tuttle
+Right and.
+0:7:29.680 --> 0:7:32.400
+Adrian Garcia
+Yep, and and team, we're rolling out at time.
+0:7:32.410 --> 0:7:35.830
+Adrian Garcia
+New products, I mean, I think we'll have some time for grant to kind of walk through.
+0:7:35.940 --> 0:7:43.760
+Adrian Garcia
+But from now through the end of the year, you're gonna need to rely on your sales engineer, you know, to be able to get the specifics of the new products.
+0:7:43.770 --> 0:7:44.500
+Adrian Garcia
+What it does do?
+0:7:44.510 --> 0:7:48.360
+Adrian Garcia
+What it doesn't do that we can't really assume anything on these products.
+0:7:48.370 --> 0:8:13.120
+Adrian Garcia
+We need to ensure that we're delivering the right expectations, so that's part of the reason why we're having, uh, you know that that we're we're including the sales engineering tasking because today we're not consistent across all markets engaging the sales engineer and by the time that we sell something, you know we might not be providing the best customer experience because you know they assume it does something that it necessarily does not, not does not do specific to the managed services.
+0:8:13.130 --> 0:8:30.80
+Adrian Garcia
+I think I've seen some examples there, but it's really to be able to help elevate or offering and get everybody on the same page, and I think we're all committed to getting, you know, quick response around all of those things and all the new changes and in Salesforce.
+0:8:32.760 --> 0:8:33.180
+Adrian Garcia
+Cool.
+0:8:33.190 --> 0:8:33.580
+Adrian Garcia
+Sorry, man.
+0:8:33.600 --> 0:8:34.350
+Adrian Garcia
+You gonna say something?
+0:8:36.800 --> 0:8:37.110
+Grant Sullivan
+No.
+0:8:36.740 --> 0:8:38.480
+Adrian Garcia
+OK, alright.
+0:8:38.410 --> 0:8:38.870
+Hayden Tuttle
+Yeah, I'll.
+0:8:38.880 --> 0:8:39.910
+Hayden Tuttle
+I was gonna say something.
+0:8:38.490 --> 0:8:41.330
+Adrian Garcia
+So I'll I'll ohh go ahead, Wayne.
+0:8:39.920 --> 0:8:45.450
+Hayden Tuttle
+Adrian, I what we, we we just gotta keep those lines of communication open.
+0:8:47.510 --> 0:8:48.50
+Rusty Wilson
+The.
+0:8:46.380 --> 0:8:48.270
+Hayden Tuttle
+And so it don't fire and forget.
+0:8:49.690 --> 0:8:50.530
+Hayden Tuttle
+Go out there and.
+0:8:48.460 --> 0:9:1.890
+Hayden Tuttle
+Don't just E submit the quote for approval by A or by SE and finance and just be like what's taking so long with my clothes, you know, have a conversation beforehand.
+0:9:1.900 --> 0:9:3.220
+Hayden Tuttle
+I'm getting ready to submit this quote.
+0:9:3.230 --> 0:9:4.280
+Hayden Tuttle
+You and I haven't talked about it.
+0:9:4.330 --> 0:9:4.850
+Hayden Tuttle
+Just want to give you.
+0:9:4.900 --> 0:9:12.630
+Hayden Tuttle
+A heads up, I know it's a little bit extra time, but it just makes the process go a lot smoother and it'll give you a lot quicker turn around.
+0:9:14.90 --> 0:9:14.270
+Adrian Garcia
+Yep.
+0:9:16.900 --> 0:9:17.300
+Adrian Garcia
+Alright.
+0:9:16.520 --> 0:9:18.520
+Speaker 1
+Absolutely alright.
+0:9:18.920 --> 0:9:19.160
+Speaker 1
+So.
+0:9:19.240 --> 0:9:23.570
+Speaker 1
+Just E2 more quick updates.
+0:9:23.680 --> 0:9:34.490
+Speaker 1
+They're kind of in the same as, you know, we have been working very diligently getting this new catalog about to come out soon.
+0:9:34.760 --> 0:9:40.240
+Speaker 1
+And so you all would have seen a couple of different emails come out.
+0:9:40.250 --> 0:9:44.620
+Speaker 1
+I appreciate all the ASM's and sales managers on the call. Who?
+0:9:45.160 --> 0:9:48.290
+Speaker 1
+Make sure that we had the training schedule set up.
+0:9:48.300 --> 0:10:2.820
+Speaker 1
+I appreciate that we do have 100% of the training scheduled for the new catalog, the CPQ sales force training and some people received an additional email This morning about UAT.
+0:10:3.90 --> 0:10:6.460
+Speaker 1
+So I appreciate the ones who were volume told.
+0:10:6.470 --> 0:10:7.920
+Speaker 1
+I appreciate you so much.
+0:10:8.390 --> 0:10:11.980
+Speaker 1
+Just be on the lookout for those emails for UAT.
+0:10:12.30 --> 0:10:23.560
+Speaker 1
+It's very important that we get this done so that we are able to give you all a a great product that hopefully has been moved to no bugs in it.
+0:10:23.830 --> 0:10:35.880
+Speaker 1
+We all know is going to be a different type of behavior change when it comes to some of these new features, but we are definitely excited to to put them in front of the rural world.
+0:10:35.890 --> 0:10:44.540
+Speaker 1
+Audience is going to be using it and to make sure that we're capturing any type of inefficiency or issues that may arise.
+0:10:44.590 --> 0:10:48.100
+Speaker 1
+So the ones that are on the UAT team, I appreciate you.
+0:10:48.230 --> 0:10:49.300
+Speaker 1
+I want to thank you in advance.
+0:10:50.270 --> 0:10:55.780
+Speaker 1
+Because you know, without you, we wouldn't be able to really produce this to to production.
+0:10:56.90 --> 0:11:16.960
+Speaker 1
+So those are the last two things I am getting a couple of emails about where the find the SOF no, I just wanted to make sure that you all know where to find the SOF and that is you know on that SharePoint site if other people are uploading them I would not recommend that.
+0:11:16.970 --> 0:11:18.190
+Speaker 1
+That's the source of truth.
+0:11:18.200 --> 0:11:26.340
+Speaker 1
+When that you use, make sure that you go to the one that's either uploaded is going to say my name or Judy's name, so.
+0:11:26.390 --> 0:11:42.660
+Speaker 1
+We want to make sure that we're uploading whatever we get from from Grant's team or whatever that we're uploading the correct one for you all, because people can make changes and you think it may be the right one, but it's not if you don't know where that's at, I'm gonna put that in the chat as well.
+0:11:42.670 --> 0:11:57.800
+Speaker 1
+Well, and so you know how to get back to that, if anyone does need assistance, please use applications that can tear.com no need to copy myself or Jeffrey on it, but just make sure that the subject line is clear.
+0:11:58.560 --> 0:11:59.670
+Speaker 1
+That's all I have, Adrian.
+0:12:1.490 --> 0:12:2.310
+Adrian Garcia
+Alright, thank you.
+0:12:3.110 --> 0:12:3.970
+Speaker 1
+You're so welcome.
+0:12:6.680 --> 0:12:6.990
+Speaker 1
+Ask.
+0:12:3.480 --> 0:12:7.60
+Adrian Garcia
+I appreciate the partnership. OK.
+0:12:7.70 --> 0:12:27.830
+Adrian Garcia
+So we're we're gonna go into the results and the recognition for those individuals over 100% and kind of where we are with the preliminary numbers through the first half of the year and then we'll we'll deed over to the rest of the ecosystem product and Jackie to give you guys some additional products, some additional updates on the product and marketing site.
+0:12:27.840 --> 0:12:30.350
+Adrian Garcia
+So let's dig right in.
+0:12:30.360 --> 0:12:34.300
+Adrian Garcia
+Can you guys see our my slide, you know if I'm already click share?
+0:12:38.380 --> 0:12:48.690
+Adrian Garcia
+So First off, we wanted to acknowledge that our newest team members, we have several, you know that have come on board since May.
+0:12:48.700 --> 0:12:49.880
+Adrian Garcia
+I might have missed a few.
+0:12:49.890 --> 0:12:56.760
+Adrian Garcia
+I apologize if I did, but I think I captured most all super excited about next week.
+0:12:56.770 --> 0:12:59.210
+Adrian Garcia
+We do have a new hire training class here in corporate.
+0:12:59.220 --> 0:13:1.80
+Adrian Garcia
+Most of these individuals will be participating.
+0:13:2.60 --> 0:13:2.590
+Adrian Garcia
+Uh.
+0:13:2.620 --> 0:13:4.420
+Adrian Garcia
+Wanted to welcome Dominique Abbe.
+0:13:4.430 --> 0:13:7.430
+Adrian Garcia
+We'll get to meet her in person next week.
+0:13:7.440 --> 0:13:13.950
+Adrian Garcia
+She is a new account executive down next Texarkana for the another northern Louisiana sales team.
+0:13:14.400 --> 0:13:22.370
+Adrian Garcia
+We have Mr Matt Jones out of San Angelo or the meeting him account executive in San Angelo working with Todd Smith.
+0:13:22.380 --> 0:13:24.980
+Adrian Garcia
+Mr Christian Vega, El Paso.
+0:13:24.990 --> 0:13:28.900
+Adrian Garcia
+We have 3 individuals, actually four at the rest of these are real Paso actually.
+0:13:28.910 --> 0:13:32.700
+Adrian Garcia
+So we have quite a few new team members out of our passive market.
+0:13:32.710 --> 0:13:40.500
+Adrian Garcia
+So Isaiah W comes to us from Spectrum VoIP I believe, and he's going to be part of Maribel's team.
+0:13:40.510 --> 0:13:43.900
+Adrian Garcia
+Team Maribel is also our new sales manager in El Paso.
+0:13:44.370 --> 0:13:47.320
+Adrian Garcia
+She will be working with Kirk Jefferson down.
+0:13:47.330 --> 0:13:55.20
+Adrian Garcia
+There really focused on the smaller customers that transactional customers, small biz.
+0:13:55.360 --> 0:14:2.950
+Adrian Garcia
+You know, she's building her team along with Isaiah W, who is coming to us from like, it says, Peckham Boyd and Rainer Mayer.
+0:14:2.960 --> 0:14:6.820
+Adrian Garcia
+I think is also on the call and might might not have been.
+0:14:6.830 --> 0:14:12.680
+Adrian Garcia
+I think you might start next week actually, but that we'll be able to meet him in training next week.
+0:14:12.690 --> 0:14:17.580
+Adrian Garcia
+Mr Paul Cordova, our new sales engineer working with Hayden and supporting the full market.
+0:14:18.250 --> 0:14:21.250
+Adrian Garcia
+Welcome to the team and again, Miss Maribel Mendez.
+0:14:21.260 --> 0:14:25.80
+Adrian Garcia
+Senior she's been on board right about a month and a week.
+0:14:25.90 --> 0:14:31.640
+Adrian Garcia
+I believe making an impact and planning to conquer the world or the second half of El Paso's world, I should say so.
+0:14:32.70 --> 0:14:33.110
+Adrian Garcia
+So welcome, everybody.
+0:14:34.510 --> 0:14:38.920
+Adrian Garcia
+Looking forward to meeting all of you next week, what we have a full agenda for you all.
+0:14:39.550 --> 0:14:49.480
+Adrian Garcia
+Hope you guys bring lunch because we have nothing to eat for you guys, so we really wanted you guys to be on the edge of your seat and eager to eager to eager to listen.
+0:14:49.490 --> 0:14:51.130
+Adrian Garcia
+But I'm kidding.
+0:14:51.180 --> 0:14:55.820
+Adrian Garcia
+Alright, so through June again, you'll see.
+0:14:55.830 --> 0:15:11.100
+Adrian Garcia
+You'll see probably snippets of spreadsheets and then some of the the sales flash, but through the end of June, with the preliminary numbers and again these are preliminary, these are out of Salesforce and these are manual that I kind of calculated and put together.
+0:15:11.110 --> 0:15:20.400
+Adrian Garcia
+But overall for the enterprise organization we're sitting at about 73% for the year against our goal of 623,000.
+0:15:20.410 --> 0:15:25.930
+Adrian Garcia
+We worried about 455 a E through June.
+0:15:25.940 --> 0:15:28.470
+Adrian Garcia
+That is about a 15% year over year uptick.
+0:15:29.520 --> 0:15:35.10
+Adrian Garcia
+We did have, you know, a few deals that pushed a few large deals that pushed into July.
+0:15:35.20 --> 0:15:44.750
+Adrian Garcia
+One of those in Opaso that should make a significant needle move a that the team is really excited about working and and delivering.
+0:15:44.760 --> 0:15:52.380
+Adrian Garcia
+I think they have a closing meeting next week I believe, but we did have several of those and we did bring a few other larger deals that will review.
+0:15:53.440 --> 0:15:55.350
+Adrian Garcia
+I don't necessarily have a year to date through May.
+0:15:55.360 --> 0:15:56.870
+Adrian Garcia
+I think that I'll just give you the June.
+0:15:57.120 --> 0:15:57.940
+Adrian Garcia
+That's where we're at.
+0:15:59.340 --> 0:16:8.350
+Adrian Garcia
+I'll dig into the individual markets and but you can see, you know, kind of where they're at from the year perspective and the forward looking slide.
+0:16:8.360 --> 0:16:10.210
+Adrian Garcia
+So right here.
+0:16:10.220 --> 0:16:14.890
+Adrian Garcia
+So the top number, that's our main number, this is the market breakout.
+0:16:15.570 --> 0:16:24.60
+Adrian Garcia
+We had northern Louisiana at 138% through that month, if I'm not mistaken.
+0:16:24.70 --> 0:16:35.0
+Adrian Garcia
+Northern Louisiana team hit 100% every month for seven or eight months, and they lost count, but it was a streak that I don't know if I've seen in the conterra before.
+0:16:35.10 --> 0:16:43.400
+Adrian Garcia
+So I wanted to to give kudos to to Stephanie and Tim Burkes and the full northern Louisiana team for for doing a phenomenal job.
+0:16:43.410 --> 0:16:46.680
+Adrian Garcia
+And there's a lot of things that are that are happening in that market.
+0:16:46.690 --> 0:16:52.570
+Adrian Garcia
+The team I think I believe in that same month, every single individual in that team was over 100%.
+0:16:52.800 --> 0:16:56.920
+Adrian Garcia
+So congratulations to you and to all the success through May.
+0:16:57.570 --> 0:17:9.280
+Adrian Garcia
+Uh, you know next to that through May, we had, you know, Southern Louisiana to close 82% and then eastern North Carolina at 94% for June.
+0:17:9.330 --> 0:17:14.670
+Adrian Garcia
+Again, these are the preliminary numbers with what is in sales force A.
+0:17:15.200 --> 0:17:19.830
+Adrian Garcia
+The Northern Louisiana team remain at 124%.
+0:17:20.420 --> 0:17:24.790
+Adrian Garcia
+They did not hit 100% for the month, so it did break their streak.
+0:17:24.840 --> 0:17:41.550
+Adrian Garcia
+But they're still at the 124% for the year to date goal they had, you know it was a tough, it was a tough month and northern Louisiana East Texas region, we did have some significant outages and storms that impacted customers being available.
+0:17:41.560 --> 0:17:53.470
+Adrian Garcia
+It impacted a lot of our team members as well in northern Louisiana and East Texas that had power outages and you know, luckily they they've been able to come out of that.
+0:17:53.480 --> 0:17:58.370
+Adrian Garcia
+And I mean, it was about two weeks, I think that at least somebody had, you know, some level of power issues.
+0:17:58.380 --> 0:18:8.210
+Adrian Garcia
+So tough, tough month, but at the same time some several of these deals did push into July for the month.
+0:18:8.220 --> 0:18:14.590
+Adrian Garcia
+We had northern Louisiana, I mean, sorry, southern Louisiana hit 181%.
+0:18:14.600 --> 0:18:17.650
+Adrian Garcia
+It was also a record breaking month for them.
+0:18:18.80 --> 0:18:20.190
+Adrian Garcia
+In June, they heard 30,000.
+0:18:20.700 --> 0:18:25.900
+Adrian Garcia
+30,099 believe it's almost $30,100.
+0:18:25.910 --> 0:18:32.290
+Adrian Garcia
+So they had a really large deal come through that they've been working to bring in.
+0:18:32.300 --> 0:18:49.570
+Adrian Garcia
+We'll, we'll talk a little bit more about that, but they had, you know, pretty much everybody contribute to that success or congratulations to the southern Louisiana, Kirk and Andrew, he has been working on some of those opportunities for a while and and we're able to navigate them to bring them in.
+0:18:49.580 --> 0:19:0.170
+Adrian Garcia
+So overall, I mean again, we're sitting at about 73% team, that puts Southern Louisiana just four points shy of being at 100% for the year.
+0:19:0.180 --> 0:19:5.610
+Adrian Garcia
+If you saw the the top there, they were about 80% eighty 2% for the year.
+0:19:5.620 --> 0:19:11.290
+Adrian Garcia
+So they're that one month was able to get them, you know, trued up to close to 100%.
+0:19:11.300 --> 0:19:19.470
+Adrian Garcia
+So again, we have a significant funnel and and larger opportunities that we're pushing that are going into the second half of the year.
+0:19:19.480 --> 0:19:28.210
+Adrian Garcia
+So we're a little bit behind, but we're all driven to hit that number and we all have the right team, you guys, the new team members will be reviewing also their performance.
+0:19:28.220 --> 0:19:34.30
+Adrian Garcia
+But the new team members, they challenge all of you to to, you know, put numbers on the board as soon as you can.
+0:19:34.40 --> 0:19:44.600
+Adrian Garcia
+I mean, we've had we've had several AE that hit in the thousands their first month we have you know, I don't know if I remember the actual number, but we've had a lot of successes here with with our new team members.
+0:19:44.650 --> 0:19:52.990
+Adrian Garcia
+You know, contributing to that early early alright, so 100% for 100% club for May.
+0:19:54.300 --> 0:19:56.950
+Adrian Garcia
+Uh and I broke this up like I did last time.
+0:19:56.960 --> 0:19:59.870
+Adrian Garcia
+Kind of into three different segments.
+0:20:0.440 --> 0:20:3.10
+Adrian Garcia
+I'm I'm highlighting the individuals that are on ramp.
+0:20:3.20 --> 0:20:15.230
+Adrian Garcia
+So we have, we normally have tenured and non tenured, but I'm highlighting the ones that are actually unwrapped, meaning they're transitioning into the company, building their funnel and having success in May.
+0:20:15.290 --> 0:20:22.120
+Adrian Garcia
+Andrew, within his second month, was able to achieve over his ramp quota at 136%.
+0:20:22.490 --> 0:20:28.120
+Adrian Garcia
+Mr Kevin Dunn and Ken Flores weren't able to hit the ramp, but they did contribute, which is important, right?
+0:20:28.130 --> 0:20:35.310
+Adrian Garcia
+It's not easy to be able to contribute your first or second month and to see to see you guys already moving the needle.
+0:20:35.320 --> 0:20:42.210
+Adrian Garcia
+We want to acknowledge that that's great to see for our account executives, not seniors.
+0:20:42.520 --> 0:20:47.870
+Adrian Garcia
+We have Mr Cody Foster on top at 230% attainment.
+0:20:47.880 --> 0:20:52.190
+Adrian Garcia
+You had a phenomenal month in May, $5700 on the board.
+0:20:52.540 --> 0:21:10.440
+Adrian Garcia
+Second, in attainment is just Chris Kasprzak and I believe that might be his first time at 100% for the month, which is great to see his success and he's building on his on his funnel and seconded that Mister Brandon Gaines at 189.
+0:21:10.550 --> 0:21:14.780
+Adrian Garcia
+You said also part of the East, North Carolina team, Courtney Meadows.
+0:21:15.290 --> 0:21:36.30
+Adrian Garcia
+I believe that this is her first month off of ramp in May, she was able to achieve her above her quota at 110% and then Miss Amy Villemarette and she's she's on this list often 2562 hundred and 2% and then Mr Paul Robertson at 25 with by a dollar he get 100%.
+0:21:36.40 --> 0:21:38.280
+Adrian Garcia
+So way to go. Uh Paul.
+0:21:38.290 --> 0:21:42.900
+Adrian Garcia
+Way to drive if it was, if it was $1.00 that needed to get you there, $2.00 and needed to get you there.
+0:21:42.910 --> 0:21:43.680
+Adrian Garcia
+Congratulations.
+0:21:43.690 --> 0:21:44.560
+Adrian Garcia
+And you're assertiveness.
+0:21:44.570 --> 0:21:57.430
+Adrian Garcia
+And pushing through that and then in the I did want to just mention Kimberly Moore as you were close 93%, but congratulations to those account executives and we move over to the right hand side for our seniors.
+0:21:57.440 --> 0:22:2.260
+Adrian Garcia
+We have Mr Todd Smith as you might or might not know, he does carry a dual role.
+0:22:2.270 --> 0:22:3.390
+Adrian Garcia
+He is a he.
+0:22:3.400 --> 0:22:17.90
+Adrian Garcia
+Is the market leader for San Angelo, but he does have an individual contributor quota and he was able to bring in a fairly large deal that will review here a little bit later on with Novacomm, he was able to achieve $9100 against this quota.
+0:22:17.100 --> 0:22:23.80
+Adrian Garcia
+It's 456% attainment and somebody that's not familiar in this.
+0:22:23.90 --> 0:22:23.600
+Adrian Garcia
+Just kidding.
+0:22:23.610 --> 0:22:30.460
+Adrian Garcia
+Miss Kristie McCormick uh 317% way to go.
+0:22:30.580 --> 0:22:31.560
+Adrian Garcia
+Todd Christie.
+0:22:31.570 --> 0:22:33.520
+Adrian Garcia
+Phenomenal to see that level of attainment.
+0:22:45.10 --> 0:22:45.130
+Blake Gunn
+Yeah.
+0:22:33.530 --> 0:22:50.0
+Adrian Garcia
+Mr Rusty Wilson comes in at 184% for May $6400 on the board and Rusty Bunton we had a rusty and Rusty square 3800 dollars, 111% attainment and Mr Brent Marvel at 3:30.
+0:22:50.10 --> 0:23:2.490
+Adrian Garcia
+724 hundred, 6% congratulations to all of you for May and those results, uh, you know a lot of you frequent frequent Flyers in this club and that's great to see what it is.
+0:23:2.500 --> 0:23:6.730
+Adrian Garcia
+Also, a few of you that are that are able to get on this, so congratulations to all.
+0:23:7.740 --> 0:23:10.90
+Adrian Garcia
+Let's go over to June preliminary now.
+0:23:10.100 --> 0:23:21.850
+Adrian Garcia
+Again, this is from Salesforce and you can see it have couple of blanks in there so you know dismissed that Mister Dagan $9600 against the quota of $2500.
+0:23:22.140 --> 0:23:26.830
+Adrian Garcia
+That was part of a deal that he partnered with Andrew Taylor on.
+0:23:26.840 --> 0:23:31.430
+Adrian Garcia
+But it was significant month for him 388%.
+0:23:31.740 --> 0:23:41.560
+Adrian Garcia
+Paul Robertson again at 100 and 331% he had a very large deal come in on the last two days of the month or maybe even the last day of the month.
+0:23:41.610 --> 0:23:42.860
+Adrian Garcia
+I don't know is a Buzzard beater.
+0:23:43.740 --> 0:23:50.680
+Adrian Garcia
+He was able to get that through and then Kade Doss great to see Mr Kade on this list.
+0:23:50.910 --> 0:23:52.370
+Adrian Garcia
+Phenomenal month Kade.
+0:23:52.380 --> 0:24:1.60
+Adrian Garcia
+I know you've been working hard to get to get there and great to see you've heard a lot of great things about what you did to get there from your leadership.
+0:24:1.70 --> 0:24:5.250
+Adrian Garcia
+So phenomenal month for you to get on this list and look at this, Mr Chris Kasprzak.
+0:24:5.850 --> 0:24:6.300
+Blake Gunn
+Woo Hoo.
+0:24:5.690 --> 0:24:9.330
+Adrian Garcia
+Once again, 109% way to go creates 2 months in a row.
+0:24:10.320 --> 0:24:12.350
+Adrian Garcia
+Phenomenal to see that again.
+0:24:12.360 --> 0:24:14.110
+Adrian Garcia
+Forget about the Lord 2 numbers.
+0:24:14.120 --> 0:24:30.710
+Adrian Garcia
+That's just typos, and for our seniors, Mr Andrew Taylor, as you can, as I mentioned, he did work with Dagan, both of them partnered on Calcasieu Parish Sheriff, and we're successful in bringing in a 17 site network.
+0:24:31.450 --> 0:24:39.220
+Adrian Garcia
+I was lucky enough to be able to participate in some of those meetings in person and on the phone and and they really did have a a partnership going.
+0:24:39.230 --> 0:24:39.600
+Adrian Garcia
+It was.
+0:24:39.870 --> 0:24:44.120
+Adrian Garcia
+It was really awesome to see, you know how they navigated the conversations between both of them.
+0:24:45.310 --> 0:24:50.20
+Adrian Garcia
+You know how they were peered with individuals across the the table.
+0:24:50.30 --> 0:24:58.860
+Adrian Garcia
+You know, one with the CIO and the other one with the network administrator, they were both really mindful of the conversations that were taking place and executing so phenomenal job.
+0:24:58.870 --> 0:25:8.580
+Adrian Garcia
+Andrew and Dagan, great to see you 267%, Mr Rusty Wilson once again on this list, 145% Sean Griffin.
+0:25:9.190 --> 0:25:10.180
+Adrian Garcia
+Look at that guy.
+0:25:10.250 --> 0:25:13.160
+Adrian Garcia
+Look at that guy $4600.
+0:25:13.170 --> 0:25:16.10
+Adrian Garcia
+You can say 134% and look at this.
+0:25:16.100 --> 0:25:21.940
+Adrian Garcia
+Another rusty, rusty square shows up $4000 a 116%.
+0:25:21.950 --> 0:25:22.790
+Adrian Garcia
+He called me yesterday.
+0:25:22.800 --> 0:25:27.180
+Adrian Garcia
+He goes hey, are you didn't acknowledge me and Jim because I was at 100% both of those months.
+0:25:27.190 --> 0:25:28.40
+Adrian Garcia
+Did you know that? And you?
+0:25:28.50 --> 0:25:28.460
+Adrian Garcia
+Absolutely.
+0:25:28.470 --> 0:25:28.810
+Adrian Garcia
+I knew that.
+0:25:29.900 --> 0:25:31.150
+Adrian Garcia
+Congratulations, rusty.
+0:25:31.160 --> 0:25:31.740
+Adrian Garcia
+Great to see you.
+0:25:31.750 --> 0:25:38.30
+Adrian Garcia
+And Nancy Berger hitting the list 3800 dollars, 111% phenomenal job is Nancy.
+0:25:38.580 --> 0:25:47.770
+Adrian Garcia
+And then for those that are on ramp, we didn't have anybody hit the ramp quota, but we did have individuals on the board, Andrew, third month in $100.
+0:25:48.160 --> 0:25:51.450
+Adrian Garcia
+Hey I know I've seen the funnel you're building upon that funnel it all.
+0:25:51.700 --> 0:25:54.150
+Adrian Garcia
+It's going to come in, Mr Matt Jones.
+0:25:54.160 --> 0:25:57.50
+Adrian Garcia
+I think it was one week on the job $30.00.
+0:25:57.60 --> 0:26:11.320
+Adrian Garcia
+I don't know exactly what that might have been, but it was a transfer from from Todd to deal with something that, but at the end of the day it's it's it's on the board looking forward to meeting you, Mr Camp Flotus and Willie McGee, also on the board, a way to go, team.
+0:26:11.330 --> 0:26:17.820
+Adrian Garcia
+I know it's all about building that funnel, so every little success will contribute towards momentum.
+0:26:17.830 --> 0:26:23.740
+Adrian Garcia
+So, great job for all of those that are at 100% for those two months.
+0:26:23.750 --> 0:26:31.700
+Adrian Garcia
+Unfortunately, I do not have a true up for the year, simply because they're out of time and simply because I it's just I have to do manual.
+0:26:32.170 --> 0:26:33.390
+Adrian Garcia
+So I owe you that.
+0:26:33.400 --> 0:26:42.300
+Adrian Garcia
+I'm looking forward to the the news, the the sales flash coming from finance and they'll make sure that we acknowledge all of the all of you that are at 100% for the year.
+0:26:43.90 --> 0:26:51.700
+Adrian Garcia
+I could deal through manage results for that, but it might have changed so this is me just trying to get the call consistency and trying to get to the acknowledgement.
+0:26:51.710 --> 0:26:56.270
+Adrian Garcia
+But I did want to pivot over into these larger deals that we've won the last two months.
+0:26:56.280 --> 0:27:7.130
+Adrian Garcia
+We've had some E really nice wins and I'll probably pick on the sales managers or the area sales managers to to talk about the success or kind of what, what it took to win these deals.
+0:27:7.140 --> 0:27:14.860
+Adrian Garcia
+But in in May, which is the top half of the slide, the largest deal that we sold was novacom.
+0:27:14.870 --> 0:27:22.830
+Adrian Garcia
+And again, this is a this is an opportunity that Jeff and Todd and Jeremy have been working on for well over six months.
+0:27:23.180 --> 0:27:24.610
+Adrian Garcia
+It's it's died down.
+0:27:24.620 --> 0:27:35.280
+Adrian Garcia
+It's going back to life and you know it's a it's a pretty unique opportunity in West Central Texas that that Todd was successful in winning.
+0:27:35.290 --> 0:27:43.310
+Adrian Garcia
+So Keith and Todd, do you guys want to talk about what it is that we solve for and what what differentiated does that allow us to win this partnership?
+0:27:44.920 --> 0:27:45.660
+Keith Lloyd
+Don't get him, Todd.
+0:27:47.420 --> 0:27:48.230
+Todd Smith
+I'll take this.
+0:27:49.460 --> 0:27:49.770
+Todd Smith
+Yeah.
+0:27:49.780 --> 0:27:51.410
+Todd Smith
+So it's in a the small community.
+0:27:51.420 --> 0:27:56.910
+Todd Smith
+Ballinger, TX and if you anybody knows Ballinger, Texas, there's just not much there.
+0:27:57.740 --> 0:28:6.350
+Todd Smith
+Umm, we happen to have our own fiber for region 15, school district, about 900 foot away from them.
+0:28:6.940 --> 0:28:12.740
+Todd Smith
+And so novacom they're they're a multi faceted kind of business.
+0:28:14.410 --> 0:28:16.320
+Todd Smith
+There are OK.
+0:28:17.90 --> 0:28:30.220
+Todd Smith
+Anyway, they they have their their housing, some servers for EA Sports, their housing, some servers for Colorado University, and they're doing much more.
+0:28:30.230 --> 0:28:31.160
+Todd Smith
+But they're looking.
+0:28:31.210 --> 0:28:32.810
+Todd Smith
+They're looking for huge bandwidth.
+0:28:32.820 --> 0:28:35.750
+Todd Smith
+They're ordered a 10 gig circuit right off the bat.
+0:28:36.580 --> 0:28:37.190
+Todd Smith
+Umm.
+0:28:38.130 --> 0:28:43.290
+Todd Smith
+And looking to go to 100 gig and maybe larger sooner than later.
+0:28:44.900 --> 0:28:45.950
+Todd Smith
+Not only that, did they?
+0:28:45.960 --> 0:28:48.750
+Todd Smith
+They ordered the guy that is the owner.
+0:28:48.760 --> 0:28:54.270
+Todd Smith
+Manager lives in Ballinger and he had a he has a house on a County Road.
+0:28:55.620 --> 0:29:8.410
+Todd Smith
+We had to Type 2 that location because we were nowhere near nowhere near it, but he has a 10 year old son who is a genius and his 10 year old son is doing coding his 10 year old son is.
+0:29:8.460 --> 0:29:8.730
+Todd Smith
+Doing.
+0:29:10.0 --> 0:29:15.790
+Todd Smith
+A lot of things that that are way above my head and so his son needs some bandwidth.
+0:29:15.800 --> 0:29:22.170
+Todd Smith
+So he ordered a 5 gig circuit for his house, which is we don't care if it's a.
+0:29:22.240 --> 0:29:22.390
+Todd Smith
+House.
+0:29:22.500 --> 0:29:23.830
+Todd Smith
+Or a business we're gonna get in.
+0:29:24.40 --> 0:29:25.270
+Todd Smith
+Get in some bandwidth.
+0:29:25.990 --> 0:29:31.460
+Todd Smith
+Umm, so that's where that's this started with a actually actual absolute cold call.
+0:29:31.470 --> 0:29:32.310
+Todd Smith
+We were.
+0:29:32.370 --> 0:29:40.330
+Todd Smith
+I was driving back from Dallas, saw the banner on the on the fence and just stopped in and said hello and that's how it started.
+0:29:43.240 --> 0:29:44.740
+Adrian Garcia
+So you mean the cold call?
+0:29:44.970 --> 0:29:45.700
+Adrian Garcia
+Call's work.
+0:29:45.950 --> 0:29:46.460
+Adrian Garcia
+Wow.
+0:29:46.870 --> 0:29:47.940
+Todd Smith
+Very cold call, yeah.
+0:29:47.710 --> 0:29:48.490
+Adrian Garcia
+Amazing.
+0:29:48.720 --> 0:29:51.380
+Adrian Garcia
+Amazing way to go, Todd.
+0:29:51.550 --> 0:29:52.680
+Adrian Garcia
+Congratulations to you.
+0:29:52.690 --> 0:29:53.80
+Adrian Garcia
+Phenomenal.
+0:29:53.90 --> 0:29:58.810
+Adrian Garcia
+I think it's the largest win out of the San Angelo area, so congratulations, that's a record breaking deal for you.
+0:29:59.540 --> 0:29:59.860
+Todd Smith
+Thank you.
+0:30:0.190 --> 0:30:9.550
+Adrian Garcia
+You know, looking forward to continued success and I'll I'll group may and June based on on markets I wanted, Stephanie and her team to talk a little bit about Willis Knighton.
+0:30:9.560 --> 0:30:17.110
+Adrian Garcia
+And I know it's an existing account, but it's been a long, long conversation and a lot of effort.
+0:30:17.170 --> 0:30:25.580
+Adrian Garcia
+And to get this through and also you could discuss a little bit about cattle, parish Sheriff's Office in May cause that was a significant win as well.
+0:30:25.590 --> 0:30:29.630
+Adrian Garcia
+So, Miss Stephanie Green and and Tim Burke and you guys talked about these two opportunities.
+0:30:30.480 --> 0:30:31.270
+Speaker 2
+Yeah, for sure.
+0:30:31.280 --> 0:30:35.970
+Speaker 2
+Willis Knighton was it's it's a long play, strategic type of account.
+0:30:36.20 --> 0:30:45.140
+Speaker 2
+We set the standard by a Tim designed them a private network solution back when law was was there.
+0:30:45.150 --> 0:30:51.430
+Speaker 2
+Rep and Christy took over the account and and got in there and just went full blast.
+0:30:51.440 --> 0:30:53.450
+Speaker 2
+You know what do you love about conterra?
+0:30:53.460 --> 0:30:58.840
+Speaker 2
+What can we do to be better and started talking to them about upgrading the existing network that we had?
+0:30:59.830 --> 0:31:4.0
+Speaker 2
+And so Kristie, even in that process uncovered additional opportunity.
+0:31:4.10 --> 0:31:14.600
+Speaker 2
+So a lot of the revenue, well, $3000 of their revenue on this order was adding Internet circuits that they had with somebody else that they weren't even considering with us.
+0:31:14.610 --> 0:31:19.740
+Speaker 2
+She uncovered that opportunity and even extended the contract they had.
+0:31:19.950 --> 0:31:22.130
+Speaker 2
+They had three years left of the contract.
+0:31:22.140 --> 0:31:27.820
+Speaker 2
+She extended it two more years for a total revenue, $12,100 a month.
+0:31:28.920 --> 0:31:29.300
+Adrian Garcia
+What's your?
+0:31:27.830 --> 0:31:36.310
+Speaker 2
+So, umm, she did a really good job securing the bag, uncovering additional opportunities, pulling in the sales engineer.
+0:31:36.860 --> 0:31:50.830
+Speaker 2
+I think the most important part of it, and Kristie process and and what makes her successful is she never leaves a meeting without setting the follow up meeting and the next steps and getting it on the calendar, getting it accepted by the customer.
+0:31:50.840 --> 0:32:2.960
+Speaker 2
+So that in my mind is something that everybody can do to drive deals forward and making sure that you're keeping a regular cadence with the customer it.
+0:32:2.970 --> 0:32:6.90
+Speaker 2
+I mean, it keeps us on track too and gives us something to work for.
+0:32:7.20 --> 0:32:16.490
+Speaker 2
+Something else Christy does is on these larger strategic deals she she sets an internal call with the team to make sure that we're all on the same page.
+0:32:16.500 --> 0:32:21.730
+Speaker 2
+We all know what our role is and and and how we can play together.
+0:32:21.740 --> 0:32:23.630
+Speaker 2
+So we do a lot of good cop, bad cop.
+0:32:25.870 --> 0:32:33.320
+Speaker 2
+We we let Tim handle the technical discussions and there's more opportunity to come from Willis Knighton.
+0:32:33.370 --> 0:32:46.410
+Speaker 2
+And because there's, uh, sorry because of how responsive she is and because of how on top of things and organized she is she she's really, really successful.
+0:32:46.420 --> 0:32:49.830
+Speaker 2
+So and any chance you have to pick her brain?
+0:32:49.900 --> 0:32:53.390
+Speaker 2
+Do it because she she's really great at what she does.
+0:32:53.400 --> 0:32:55.750
+Speaker 2
+And so I gotta give it to her.
+0:32:55.820 --> 0:32:59.570
+Speaker 2
+And on the Tim, do you wanna say anything about Willis 9?
+0:32:59.580 --> 0:33:0.560
+Speaker 2
+Do you have anything to add?
+0:33:2.720 --> 0:33:13.110
+Timothy Burks
+I mean, just speaking to the cadence, it's really been key for us, you know, cause Gee and and the team, I've been doing a great job at getting us in front of the people.
+0:33:13.120 --> 0:33:21.780
+Timothy Burks
+We need to be talking to, even if it doesn't start out that way, and I think that allows me and Stephanie to really come in.
+0:33:21.790 --> 0:33:38.90
+Timothy Burks
+Stephanie's great at, you know, starting the right conversations, getting the right questions to ask and and it really leads to the customer telling us they're paying points throughout the conversation easier, making it easier for the customer to, you know, identify that even when they're not thinking about things that we could do for them.
+0:33:38.940 --> 0:33:52.460
+Timothy Burks
+Umm, because you know when we're coming into their office, they're looking at us as another provider versus being an actual partner where we can actually plug in and places they they're not, you know, may not even be aware of.
+0:33:53.300 --> 0:33:58.970
+Timothy Burks
+So you know, Kristie, putting us in front of the right people, keeping us on that cadence cadence.
+0:33:58.980 --> 0:34:2.570
+Timothy Burks
+And like Stephanie said, you know, keeping our integrity internal.
+0:34:3.340 --> 0:34:25.250
+Timothy Burks
+Uh, on point and then us being able to go in and have those conversations and uncover the the things that we are the way we are is is really decadence behind it and Kristie keeps us on top of that team, keeps us on top of that as far as me and Stephanie playing a key role and and being support for their deals that they they set up for us to be in front of so.
+0:34:26.640 --> 0:34:36.910
+Speaker 2
+Yeah, some big parts of that, like Kristie, talks a lot about being partners and about creating long lasting partnerships with with all the people that we support.
+0:34:37.20 --> 0:34:39.740
+Speaker 2
+It's not just about getting a sale today.
+0:34:39.790 --> 0:34:51.990
+Speaker 2
+It's about setting ourselves up for the future and really being that the chosen provider, so she she does a really great job of that and also understanding the buying process.
+0:34:52.0 --> 0:34:53.650
+Speaker 2
+What's the sense of urgency?
+0:34:53.720 --> 0:34:55.850
+Speaker 2
+Or do we need to create a sense of urgency?
+0:34:57.330 --> 0:34:59.300
+Speaker 2
+What's their decision making process?
+0:34:59.310 --> 0:35:4.340
+Speaker 2
+So we can accurately forecast and and know if we can count that deal for this month or not.
+0:35:4.400 --> 0:35:15.770
+Speaker 2
+So as far as Caddo Parish Sheriff's Office, that one kinda goes into what was said about Novacom.
+0:35:15.780 --> 0:35:20.980
+Speaker 2
+A cold call is coal calls are still alive and well.
+0:35:22.740 --> 0:35:31.690
+Speaker 2
+There was a third party, like a master agent that made a coal call to Caddo Parish Sheriff's Department.
+0:35:31.940 --> 0:35:33.850
+Speaker 2
+We already serve Caddo Parish.
+0:35:34.140 --> 0:35:40.930
+Speaker 2
+We didn't realize that the Sheriff's Department was a separate entity that pays their own bill and buys their own solutions.
+0:35:41.80 --> 0:35:50.70
+Speaker 2
+So this random guy from New York made a coal call and the customer said, well, we're actually looking for quotes right now for dark fiber.
+0:35:50.300 --> 0:35:57.260
+Speaker 2
+And they spent about a month trying to collect quotes for them just so they could get paid.
+0:35:57.270 --> 0:35:57.860
+Speaker 2
+Right.
+0:35:58.30 --> 0:36:3.220
+Speaker 2
+And then they they called us because the customer said, well, conterra is in here.
+0:36:3.230 --> 0:36:4.40
+Speaker 2
+You ought to call them.
+0:36:4.50 --> 0:36:5.660
+Speaker 2
+We, that's who we were gonna call.
+0:36:6.610 --> 0:36:11.120
+Speaker 2
+And so they called us, not expecting us to respond to the bid.
+0:36:11.210 --> 0:36:15.440
+Speaker 2
+But Paul instantly said, you know what, we have a lot of questions to ask you.
+0:36:15.450 --> 0:36:19.980
+Speaker 2
+We need to get our engineer involved with the when somebody asks for dark fiber.
+0:36:19.990 --> 0:36:32.120
+Speaker 2
+Normally it's a finance decision or a network design decision, and so we needed to really understand why did they ask for what they asked for and and understand the the true need of the customer.
+0:36:32.250 --> 0:37:5.20
+Speaker 2
+So Paul did a great job getting that call set up, getting Tim in front of the customer and even where that partner didn't have the answers to our questions, we were able to bring the customer in and and get the answers to what we needed and even secure the buy in and ask them straight up to sign this month because you guys heard that my my team faced every sort of bad thing that that could be thrown at us last month from family members.
+0:37:5.30 --> 0:37:6.860
+Speaker 2
+My my father in law was in ICU.
+0:37:6.870 --> 0:37:8.900
+Speaker 2
+I had health issues.
+0:37:9.570 --> 0:37:11.340
+Speaker 2
+We had no power.
+0:37:11.410 --> 0:37:23.580
+Speaker 2
+We had every single ball that could be thrown at us was thrown at us and so this was the hell, Mary end of the month and and Paul was all over it.
+0:37:23.670 --> 0:37:25.420
+Speaker 2
+And so he saved the day.
+0:37:25.550 --> 0:37:49.300
+Speaker 2
+Really and truly with the 8051 dollar five year deal and that partner, by the way was selling against us trying to get them to buy from AT&T because AT&T paid them more and because of Paul and his specific actions, we were able to win a deal that if it was up to that partner, we wouldn't know one even though they wanted to get paid on it.
+0:37:50.880 --> 0:37:51.220
+Adrian Garcia
+Let's see.
+0:37:49.970 --> 0:37:59.0
+Timothy Burks
+And and we were able to talk to customer out of the dark fiber solution over to a private network, I think was a win ultimately.
+0:37:59.990 --> 0:38:0.710
+Speaker 2
+Yeah, for sure.
+0:38:0.980 --> 0:38:3.780
+Adrian Garcia
+Good. Awesome.
+0:38:0.210 --> 0:38:5.670
+Speaker 2
+Was getting that conversation changed around because they didn't really want dark fiber, but the cold?
+0:38:5.730 --> 0:38:12.670
+Speaker 2
+Call is still alive, y'all and don't let these partners and these other people that are getting paid residuals cold.
+0:38:12.680 --> 0:38:16.730
+Speaker 2
+Call your customer first because a lot of times that they get in there first and we're out.
+0:38:18.380 --> 0:38:18.780
+Adrian Garcia
+Right.
+0:38:18.840 --> 0:38:21.580
+Adrian Garcia
+So one one more call, right.
+0:38:21.900 --> 0:38:23.990
+Adrian Garcia
+So congratulations, Christy.
+0:38:24.80 --> 0:38:25.110
+Adrian Garcia
+Stephanie Paul.
+0:38:25.220 --> 0:38:28.480
+Adrian Garcia
+Tim, great job and we'll have one more.
+0:38:28.490 --> 0:38:37.310
+Adrian Garcia
+I know there's a lot on this list, but we'll have one more team kind of review their success and like to have Kirk Bertus and his team talk about Calc issue.
+0:38:38.270 --> 0:38:40.20
+Adrian Garcia
+Uh Parish Sheriff's Office.
+0:38:40.30 --> 0:38:46.360
+Adrian Garcia
+But we had two the sheriff's in northern Louisiana and in the larger counties that we support partner up with us.
+0:38:46.370 --> 0:38:47.390
+Adrian Garcia
+So that's phenomenal to see.
+0:38:48.280 --> 0:38:49.740
+Adrian Garcia
+Uh, where?
+0:38:49.820 --> 0:38:51.330
+Adrian Garcia
+Take it away and talk to us. About what?
+0:38:51.380 --> 0:38:51.950
+Adrian Garcia
+What?
+0:38:52.80 --> 0:38:53.450
+Adrian Garcia
+What were the differentiators?
+0:38:53.460 --> 0:38:54.390
+Adrian Garcia
+Why did they choose conterra?
+0:38:56.70 --> 0:38:56.990
+Kirk Bertus
+Umm good deals.
+0:38:57.0 --> 0:39:8.620
+Kirk Bertus
+So this sale was headed off by Andrew Taylor and Dagan, Soileau Targan and a new area of the Lake Charles the the north, the northern side of Calcasieu.
+0:39:9.230 --> 0:39:11.420
+Kirk Bertus
+This also was a Co called Cold Call.
+0:39:11.480 --> 0:39:17.190
+Kirk Bertus
+It was perfect timing when they approached the Sheriff's Office, they had an existing aerial network.
+0:39:17.330 --> 0:39:19.160
+Kirk Bertus
+They had been through multiple storms.
+0:39:18.890 --> 0:39:19.240
+Adrian Garcia
+Healthcare.
+0:39:19.170 --> 0:39:20.690
+Kirk Bertus
+The service wasn't reliable.
+0:39:21.950 --> 0:39:36.340
+Kirk Bertus
+It had left them completely out for a number of months, so to get a better understanding of our network and our capabilities, Dagan and Andrew went in there and built the trust they identified who the proper stakeholders were.
+0:39:36.630 --> 0:39:38.700
+Kirk Bertus
+Throughout this discussion discussion.
+0:39:38.750 --> 0:39:39.380
+Kirk Bertus
+But who?
+0:39:39.390 --> 0:39:44.940
+Kirk Bertus
+The ultimate decision maker makers were and who they would influence through that conversation.
+0:39:45.30 --> 0:39:50.110
+Kirk Bertus
+We worked with the sales engineer to put together A-17 site location.
+0:39:50.700 --> 0:39:54.570
+Kirk Bertus
+Two of those were Type 2, the rest were on net.
+0:39:54.580 --> 0:39:55.690
+Kirk Bertus
+It had diversity.
+0:39:55.700 --> 0:39:56.30
+Kirk Bertus
+It had.
+0:39:56.40 --> 0:40:3.330
+Kirk Bertus
+Sip it had redundant paths and we worked everything on the back end, through the executives, through the HIO process.
+0:40:3.820 --> 0:40:6.900
+Kirk Bertus
+We alerted all of the E executives.
+0:40:6.910 --> 0:40:14.580
+Kirk Bertus
+What the capital costs would be, we got the buy in from the top and when we went and pitched our solution, we pitched A5 year.
+0:40:14.690 --> 0:40:16.220
+Kirk Bertus
+It met out the CapEx.
+0:40:16.280 --> 0:40:35.580
+Kirk Bertus
+It gave us a ton of new network to sell within that region that will gain once the network is built on additional customers passed and just a really big win for SLA that came uh right after Andrew Taylor had also the month prior had sold the copper shoe clerk of courts.
+0:40:35.640 --> 0:40:37.710
+Kirk Bertus
+So we're getting a lot of traction within that market.
+0:40:38.540 --> 0:40:42.30
+Kirk Bertus
+These are the type of key accounts that really make a difference in the market.
+0:40:42.40 --> 0:40:51.70
+Kirk Bertus
+They speak to the community, they're great representatives of of conterra and really appreciate the relationship that we've established so far.
+0:40:51.460 --> 0:40:54.870
+Kirk Bertus
+So more to come from SLA.
+0:40:55.630 --> 0:40:56.500
+Adrian Garcia
+Was was that?
+0:40:56.640 --> 0:40:58.760
+Adrian Garcia
+Was that the one that said to the to be true?
+0:40:58.770 --> 0:41:1.900
+Adrian Garcia
+Because I know that was part of, I guess or obstacle, right?
+0:41:1.970 --> 0:41:4.131
+Adrian Garcia
+Was that was that that the 1E?
+0:41:4.380 --> 0:41:5.290
+Andrew Taylor
+No, that was a different one.
+0:41:3.430 --> 0:41:22.880
+Kirk Bertus
+Well, that, that that's actually another client that hit had mentioned that and you know part of our biggest challenge is is just getting the name out who can Tara is and how long we've been in the market, what our story is when we get to that point of the discussion, we actually show them the network and our capabilities.
+0:41:23.390 --> 0:41:28.20
+Kirk Bertus
+That response does come a lot is like we've never heard of you.
+0:41:28.200 --> 0:41:28.640
+Kirk Bertus
+Wow.
+0:41:28.650 --> 0:41:30.710
+Kirk Bertus
+You know, it's almost too good to be true.
+0:41:31.450 --> 0:41:41.160
+Kirk Bertus
+And so, you know, when other success story really look forward to more great work from the team on Landon that sale.
+0:41:41.940 --> 0:41:43.260
+Andrew Taylor
+That I just want to say something.
+0:41:43.270 --> 0:41:44.0
+Andrew Taylor
+This is Andrew Taylor.
+0:41:42.430 --> 0:41:45.150
+Adrian Garcia
+They were team Andrew.
+0:41:45.760 --> 0:41:53.780
+Andrew Taylor
+So we sent an email, basically code call email at 11:11 AM saying hey we're can Sarah.
+0:41:54.70 --> 0:41:57.810
+Andrew Taylor
+Ohh, I'd like to meet with you 22 minutes later.
+0:41:58.270 --> 0:42:2.500
+Andrew Taylor
+They responded with dates that they could meet and we knew it was all on.
+0:42:2.510 --> 0:42:5.250
+Andrew Taylor
+We were like, alright, let's go and we just went as fast as we did.
+0:42:6.230 --> 0:42:6.670
+Adrian Garcia
+Awesome.
+0:42:7.180 --> 0:42:7.420
+Adrian Garcia
+Yeah.
+0:42:7.430 --> 0:42:8.130
+Adrian Garcia
+And I, you know, I was.
+0:42:8.140 --> 0:42:16.80
+Adrian Garcia
+It was again, you know, part of those conversations you guys had a plan, you guys had a back back down plan and you guys were In Sync.
+0:42:16.90 --> 0:42:23.890
+Adrian Garcia
+So the nominal job team way to go, we could spend all call kind of going through these deals and maybe that's an idea for related on roads.
+0:42:23.900 --> 0:42:29.290
+Adrian Garcia
+I think we learn from each other's best practices approach strategies across all the markets.
+0:42:29.300 --> 0:42:40.430
+Adrian Garcia
+So we should we could spend a little bit more time, but I do want to make sure I transition and give Grant and his team and Jackie and the team, you know the time that they that they need to be able to review these things.
+0:42:40.440 --> 0:42:44.620
+Adrian Garcia
+But again, phenomenal, a movement and success.
+0:42:44.630 --> 0:42:50.800
+Adrian Garcia
+I mean, these are all new logos for the most part, these conversations are taking place in all of our markets.
+0:42:51.230 --> 0:42:53.260
+Adrian Garcia
+It's similar conversations.
+0:42:53.310 --> 0:43:4.480
+Adrian Garcia
+It's the same power statement right that we're communicating to the team, so I encourage everyone to see the success that we have within these deals and apply to what you guys are doing out in the field.
+0:43:4.490 --> 0:43:7.960
+Adrian Garcia
+We bring a ton of value to our prospects and customers.
+0:43:8.890 --> 0:43:17.900
+Adrian Garcia
+We're one of the few companies in these markets that are up against the established telecom trend of, you know, diluted customer service and experience.
+0:43:17.910 --> 0:43:21.450
+Adrian Garcia
+Nobody's local, so team this is these are perfect examples.
+0:43:21.460 --> 0:43:28.280
+Adrian Garcia
+Reach out to each other, collaborate, talk about the successes, talk about the challenges, because this is where the rubber meets the borrow.
+0:43:28.290 --> 0:43:29.130
+Adrian Garcia
+This is what we're doing.
+0:43:29.140 --> 0:43:29.900
+Adrian Garcia
+This is conterra.
+0:43:29.910 --> 0:43:32.930
+Adrian Garcia
+So phenomenal job across the board team.
+0:43:32.970 --> 0:43:33.330
+Adrian Garcia
+Way to go.
+0:43:34.400 --> 0:43:41.300
+Adrian Garcia
+They believe that is all I have for the recognition and we, you know, remind her.
+0:43:41.310 --> 0:43:45.680
+Adrian Garcia
+I believe Michael has his quarterly recognition that will include the full quarter.
+0:43:45.550 --> 0:43:45.710
+Matt Jones
+It's.
+0:43:47.320 --> 0:43:52.60
+Adrian Garcia
+I think it's this month later this month and the second the last week of the month to check the calendars.
+0:43:52.70 --> 0:43:58.450
+Adrian Garcia
+It should already be there things that 24th while confirmed before the end of the call, but we'll have the rest of the team.
+0:43:58.460 --> 0:44:10.130
+Adrian Garcia
+I know that the the E rate and wholesale team are on, so I apologize team that you guys have kind of have to wait through this, but well, we're going to get compared and measured against all of you and Michael's call.
+0:44:10.140 --> 0:44:10.410
+Adrian Garcia
+Call.
+0:44:10.420 --> 0:44:12.30
+Adrian Garcia
+So I look forward to that.
+0:44:12.40 --> 0:44:13.910
+Adrian Garcia
+So thank you all.
+0:44:14.0 --> 0:44:15.860
+Adrian Garcia
+I'll transition over to Mr Grant.
+0:44:16.550 --> 0:44:17.170
+Adrian Garcia
+Take it away, Sir.
+0:44:18.610 --> 0:44:19.530
+Grant Sullivan
+Alright, I appreciate it.
+0:44:19.540 --> 0:44:24.330
+Grant Sullivan
+Jackie, are we ready to to do product or do you have something that you want to talk about before we start?
+0:44:25.740 --> 0:44:26.810
+Grant Sullivan
+Not OK.
+0:44:26.160 --> 0:44:27.780
+Jacquelyn Llorca
+No, you're good.
+0:44:27.900 --> 0:44:31.10
+Grant Sullivan
+Alright, well I'm going to pass it over to Bob.
+0:44:31.80 --> 0:44:31.830
+Grant Sullivan
+Bob, are you on?
+0:44:31.840 --> 0:44:32.370
+Grant Sullivan
+I think you are.
+0:44:33.400 --> 0:44:34.60
+Robert Ruggiero
+I am. Yes.
+0:44:34.720 --> 0:44:35.500
+Grant Sullivan
+Alright, take it away, Sir.
+0:44:36.10 --> 0:44:49.100
+Robert Ruggiero
+All right, I'm going to share my screen here and bear with me while I put this in presentation mode because you guys probably don't wanna do the eye chart that's sitting right here and we'll hopefully this slide show start from the beginning.
+0:44:49.570 --> 0:44:50.60
+Robert Ruggiero
+Awesome.
+0:44:50.410 --> 0:44:52.160
+Robert Ruggiero
+So I'm cross.
+0:44:52.170 --> 0:44:54.200
+Robert Ruggiero
+You guys can actually see my screen and you can hear me.
+0:44:55.300 --> 0:44:59.610
+Robert Ruggiero
+I I see a a corner of my screen up here with a nodding yes.
+0:45:0.140 --> 0:45:0.340
+Grant Sullivan
+You're.
+0:44:59.620 --> 0:45:3.290
+Robert Ruggiero
+So let's say yes to me there are three things that we're going to cover today.
+0:45:3.920 --> 0:45:5.390
+Robert Ruggiero
+Three things that I'm excited about.
+0:45:5.400 --> 0:45:8.710
+Robert Ruggiero
+Hopefully I'll get you guys really excited about we have managed Gateway.
+0:45:8.780 --> 0:45:24.20
+Robert Ruggiero
+We have managed LAN which will spend a whole bunch of time on and then we have a a managed deed also offering that I'm going to leak out to you, but we need to be aware of and we're going to start moving, umm heavily towards that.
+0:45:24.30 --> 0:45:25.890
+Robert Ruggiero
+But those are three things we're gonna talk about today.
+0:45:25.900 --> 0:45:29.970
+Robert Ruggiero
+So let's get it away and start off with the managed gateway.
+0:45:30.200 --> 0:45:34.230
+Robert Ruggiero
+If you guys are looking at this, you may be looking at the screen thinking what is the managed gateway.
+0:45:34.970 --> 0:45:41.60
+Robert Ruggiero
+Umm, I believe it or not, you guys are probably fairly familiar with what the gateway is, so think about it today.
+0:45:41.70 --> 0:45:52.530
+Robert Ruggiero
+In today's world, when you actually sell a voice line, excuse me to a customer that's not a hosted line, but a voice line to a customer that wants to connected to a traditional TDM or ego analog service.
+0:45:52.540 --> 0:46:0.640
+Robert Ruggiero
+So a A, you know, old school PBX or old school Keith system, it's an analog service.
+0:46:1.270 --> 0:46:11.160
+Robert Ruggiero
+We need to do something in order to provide a voice service to them, so we provide voice as a as a customer, we provide our carrier, we provide IP signaling.
+0:46:11.290 --> 0:46:12.660
+Robert Ruggiero
+That's how we provide service.
+0:46:13.20 --> 0:46:16.360
+Robert Ruggiero
+Analog doesn't know what to do with IP signaling.
+0:46:16.370 --> 0:46:18.560
+Robert Ruggiero
+You got to put something in there to actually convert it.
+0:46:18.620 --> 0:46:36.380
+Robert Ruggiero
+That's where the gateway is, so it's installed the customers prems connected to the analog equipment and it converts that IP signal from carrier, which is what we do today to TDM or an analog so that somebody can pick up the phone, the old school phone say times Ty and make me make connections.
+0:46:36.990 --> 0:46:40.690
+Robert Ruggiero
+So in this context, we are actually offering this as a managed service.
+0:46:40.700 --> 0:46:43.120
+Robert Ruggiero
+So it is a piece of equipment and we'll get that into a second.
+0:46:43.430 --> 0:46:47.730
+Robert Ruggiero
+And what we're doing with this piece of equipment is we're gonna, we're gonna provide the configuration for it.
+0:46:47.910 --> 0:46:51.260
+Robert Ruggiero
+We're gonna provide the management for it and we're going to provide updates to us.
+0:46:51.270 --> 0:46:56.830
+Robert Ruggiero
+So if we have to update firmware, etcetera, that's what we're going to be doing from.
+0:46:57.940 --> 0:47:0.510
+Robert Ruggiero
+I skipped over quickly, but this is a you know this is a quick thing.
+0:47:0.520 --> 0:47:1.750
+Robert Ruggiero
+There will be Flyers available.
+0:47:1.760 --> 0:47:5.70
+Robert Ruggiero
+I think I I don't know the link off top of my head.
+0:47:5.80 --> 0:47:8.100
+Robert Ruggiero
+I'm sure that we can put it into the chat room, but there is a lot flatter bill.
+0:47:8.110 --> 0:47:17.430
+Robert Ruggiero
+But if you guys would look at the basically the pitch here will be you want to keep that voice Gateway running off and leave fully compliant from a compliance 6 standpoint.
+0:47:17.440 --> 0:47:35.730
+Robert Ruggiero
+You know, some of the smaller customers may not have the compliance and regulations that a larger customers do, but you know as a as a person that runs in network or it you know manager, you're compelled to actually do things like make sure of the firmware on any particular piece of equipment that touches your network is up to date.
+0:47:35.740 --> 0:47:37.490
+Robert Ruggiero
+So there's security patches, etcetera.
+0:47:37.740 --> 0:47:40.960
+Robert Ruggiero
+Those are things that we're going to be doing for the customer and that piece of equipment.
+0:47:41.470 --> 0:47:45.900
+Robert Ruggiero
+We also do the provisioning, change management will monitor the hardware.
+0:47:46.250 --> 0:47:50.670
+Robert Ruggiero
+This is something that is specifically specifically associated with voice lines.
+0:47:50.680 --> 0:48:5.850
+Robert Ruggiero
+So again, when you guys go out there and talk to a customer, customer says, hey, I want voice service and at some point in time, you're not able to convince them to go away from the utilizing their E they're boat anchor PBX and moving to host it.
+0:48:6.360 --> 0:48:13.290
+Robert Ruggiero
+If you can't convince them to do that, and you go right with a analog line, this is a piece of equipment that needs to go with that, right.
+0:48:13.300 --> 0:48:21.380
+Robert Ruggiero
+So in this scenario, if you're selling customer, they won't go hosted, they have to they say no, I really want to stay with with analog handoff.
+0:48:22.880 --> 0:48:26.930
+Robert Ruggiero
+You're required to actually add one of these devices per location.
+0:48:26.940 --> 0:48:34.840
+Robert Ruggiero
+You sell a voice line at whether it's one line, whether it's 10 lines, whether 15 lines, if it's a location you're required to have one of them on there.
+0:48:35.30 --> 0:48:37.890
+Robert Ruggiero
+This comes with a $15 per month MRC.
+0:48:38.910 --> 0:48:40.900
+Robert Ruggiero
+I just was redundant with what I said.
+0:48:40.970 --> 0:48:43.640
+Robert Ruggiero
+It's a $15 MRC, umm.
+0:48:44.20 --> 0:48:51.320
+Robert Ruggiero
+And again, any time you sell 1 voice lines, if there's a location, you gotta have one at least one of these available at $15.00 a month.
+0:48:52.990 --> 0:48:58.580
+Robert Ruggiero
+If you're like most people, and hopefully this actually works and you're looking at the screen, you're draw it over to the right hand of the screen.
+0:48:58.590 --> 0:49:0.680
+Robert Ruggiero
+Cause I put this nice little thing up there, it said.
+0:49:0.690 --> 0:49:2.380
+Robert Ruggiero
+Limited time only to draw your attention?
+0:49:3.270 --> 0:49:26.110
+Robert Ruggiero
+Umm, so between now and probably the end of the month when we actually released a new catalog, you get the wonderful opportunity of being able to take a gateway that's supposed to be $15.00 a month and just model then with the voice lines and sell the benefit of the customer to the bus customer that this is the gateway.
+0:49:26.120 --> 0:49:27.310
+Robert Ruggiero
+This is what we're going to do for you.
+0:49:27.320 --> 0:49:28.90
+Robert Ruggiero
+Give them the select.
+0:49:28.100 --> 0:49:40.230
+Robert Ruggiero
+Talk to him about it and then provide it to him for free and you get to do that for about a month and at the end of the month when we get into the new catalog, we'll talk about how we can you structure things differently.
+0:49:40.360 --> 0:49:47.970
+Robert Ruggiero
+But, but right now I want you guys to understand that when you go out there and sell voice, you're not able to convince somebody to go to host it.
+0:49:48.480 --> 0:49:52.330
+Robert Ruggiero
+They wanna stick with their they want to keep their old analog system up and running.
+0:49:52.500 --> 0:49:56.560
+Robert Ruggiero
+They want a line that you have to include one of these within the order.
+0:50:0.70 --> 0:50:10.680
+Robert Ruggiero
+So good weighed a pause for questions and before I move on to the next grouping, so I don't see any in the chat window.
+0:50:10.690 --> 0:50:13.780
+Robert Ruggiero
+But then I have a little baby window off to the side, so.
+0:50:15.500 --> 0:50:15.650
+Todd Smith
+Hey.
+0:50:17.170 --> 0:50:17.700
+Robert Ruggiero
+No.
+0:50:15.310 --> 0:50:17.820
+Grant Sullivan
+You do have a hand raised here, Bob couple.
+0:50:17.750 --> 0:50:18.280
+Robert Ruggiero
+Awesome.
+0:50:18.490 --> 0:50:20.160
+Robert Ruggiero
+So I see that's yes.
+0:50:18.860 --> 0:50:28.880
+Todd Smith
+Hey Bob is there, is there a UPS included in this gateway battery backup, no.
+0:50:26.210 --> 0:50:32.410
+Robert Ruggiero
+Uh, there is not a UPS including the gateway, so I'll move on to the next one and I'll keep with the questions go.
+0:50:33.330 --> 0:50:35.80
+Robert Ruggiero
+Yeah, it's not a UPS it.
+0:50:35.90 --> 0:50:36.90
+Robert Ruggiero
+It's actually a little box.
+0:50:36.210 --> 0:50:46.390
+Robert Ruggiero
+Some if I have the pick, it's it's pretty small, but it that way, but it can be plugged into a UPS with the customer would have to provide that.
+0:50:50.70 --> 0:50:50.410
+Todd Smith
+Thank you.
+0:50:48.830 --> 0:50:51.60
+Doug Boberg
+He Bob is through placing the ADTRAN.
+0:50:53.880 --> 0:50:54.360
+Robert Ruggiero
+Yes.
+0:50:54.370 --> 0:50:57.490
+Robert Ruggiero
+So if it's an analog service, it replaces the Adrian.
+0:50:57.500 --> 0:51:15.240
+Robert Ruggiero
+So right now, you know, as we speak, the ad Tran will still be in existence, will still put at trans out there, but specifically for specifically for SIP handoffs and for customers that that need a PRI handoff and that's the only place to get trans will still exist.
+0:51:17.120 --> 0:51:17.610
+Doug Boberg
+OK.
+0:51:17.700 --> 0:51:18.60
+Doug Boberg
+Thank you.
+0:51:18.620 --> 0:51:18.800
+Robert Ruggiero
+Yep.
+0:51:24.10 --> 0:51:30.420
+Robert Ruggiero
+Oh, I would go into a lot more detail in terms of the quantity of FXS ports, which are voice lines it'll support.
+0:51:31.150 --> 0:51:51.60
+Robert Ruggiero
+I'm going to share that with you because if you go back and said and looked at the limited time only, it's included umm we you know when we get to the new catalog, there will be business rules that will help it make super simple and easy for you to not have to worry about how many gateways are required with how many voice lines I sold.
+0:51:51.690 --> 0:51:59.580
+Robert Ruggiero
+So we don't have to go into that, that gory detail now, but you just from an awareness standpoint, this is the device that's going to go out there.
+0:52:0.10 --> 0:52:10.590
+Robert Ruggiero
+You can actually use this as well as the E uh the the one pair 2 pager the jet that Jack and the marketing team produced for the Managed Gateway.
+0:52:11.300 --> 0:52:23.490
+Robert Ruggiero
+You can use those as as leave behinds the talking points to customers as an additional benefit, I'm and again it up until the up until the new catalogs released, which will be sometime in beginning of August, it's just gonna be included.
+0:52:23.500 --> 0:52:29.650
+Robert Ruggiero
+So they get a they get a $15 per month benefit if they sign a contract between now and August.
+0:52:30.910 --> 0:52:31.340
+Robert Ruggiero
+Alright.
+0:52:31.450 --> 0:52:32.730
+Robert Ruggiero
+Any any other questions?
+0:52:32.740 --> 0:52:33.580
+Robert Ruggiero
+I got one more. I think.
+0:52:33.590 --> 0:52:36.810
+Robert Ruggiero
+Tracy Vincent raised a hand and now it's gone. Yeah.
+0:52:35.520 --> 0:52:36.930
+Tracy Vincent
+Ohh can yeah.
+0:52:36.980 --> 0:52:41.790
+Tracy Vincent
+Ohh well, this backup on our work on the failover services that we have.
+0:52:43.440 --> 0:52:49.480
+Robert Ruggiero
+Work in the so the gateway itself you can actually plug the gateway into.
+0:52:50.840 --> 0:52:58.50
+Robert Ruggiero
+Umm yeah, you could plug it into the failover is there.
+0:52:58.60 --> 0:52:59.900
+Robert Ruggiero
+They're they're pretty well separate though Tracy.
+0:53:5.720 --> 0:53:6.10
+Tracy Vincent
+Umm.
+0:52:59.910 --> 0:53:9.360
+Robert Ruggiero
+I mean this, this is something that will that that does the the analog to digital conversion, umm, so they're they're definitely separate offerings.
+0:53:11.740 --> 0:53:12.970
+Tracy Vincent
+But I know they were separate offers.
+0:53:13.210 --> 0:53:13.490
+Robert Ruggiero
+You.
+0:53:12.980 --> 0:53:15.470
+Tracy Vincent
+I just wanted to keep with it, offer a backup.
+0:53:15.480 --> 0:53:17.840
+Tracy Vincent
+Fell over in the relation to the voice service.
+0:53:23.650 --> 0:53:23.810
+Tracy Vincent
+OK.
+0:53:19.120 --> 0:53:25.90
+Robert Ruggiero
+Yes, yes, because it will, it will work the same way it would be for hosted, right.
+0:53:37.750 --> 0:53:37.980
+Tracy Vincent
+OK.
+0:53:25.100 --> 0:53:39.200
+Robert Ruggiero
+So you have to just, you know, dig in a little bit with your SE and how that would be designed or whether it's could be how it's going to be hanging off the, the, the the router or the OR the managed last witch, Yep.
+0:53:39.830 --> 0:53:40.220
+Rusty Wilson
+So.
+0:53:48.70 --> 0:53:49.360
+Robert Ruggiero
+Umm Yep.
+0:53:40.350 --> 0:53:56.860
+Rusty Wilson
+So Bob, if if they just have, let's say they have hosted and they just need one fax line like pharmacy, I have to add 5050 another $15 item on top of the 19, whatever dollars that analog phone is.
+0:53:58.400 --> 0:53:59.630
+Robert Ruggiero
+That that is correct.
+0:53:58.180 --> 0:54:1.210
+Rusty Wilson
+Is that correct? OK.
+0:54:4.900 --> 0:54:5.290
+Rusty Wilson
+No.
+0:54:5.820 --> 0:54:6.490
+Rusty Wilson
+Yeah.
+0:54:6.660 --> 0:54:7.70
+Rusty Wilson
+OK.
+0:54:7.130 --> 0:54:9.101
+Rusty Wilson
+And the 625 E.
+0:54:12.340 --> 0:54:12.630
+Robert Ruggiero
+The.
+0:54:12.80 --> 0:54:13.150
+Blake Gunn
+Hey Bob, this is Blake.
+0:54:13.200 --> 0:54:25.470
+Blake Gunn
+I just quick question, just for education purposes, what's the added value and be a $15 up charge versus the nine OAD to this product.
+0:54:25.560 --> 0:54:30.140
+Blake Gunn
+What can we tell customers is different as to why we're adding this on?
+0:54:31.960 --> 0:54:35.510
+Robert Ruggiero
+Yeah, there's a couple of things that are different just from the awareness standpoint.
+0:54:36.20 --> 0:54:41.20
+Robert Ruggiero
+So with this device, we are actually going to be we're going to be monitoring and updating firmware.
+0:54:41.810 --> 0:54:47.460
+Robert Ruggiero
+Umm the 908 E is something that we just put out there and and drop and and forget about it, right?
+0:54:47.470 --> 0:54:56.510
+Robert Ruggiero
+It's basically it continues to work, but we're not updating firmware for uh for patches at all would just it's a set and forget.
+0:54:57.80 --> 0:55:5.460
+Robert Ruggiero
+So there's some benefit here from a customer standpoint and you know that's that's the core difference.
+0:55:6.100 --> 0:55:6.651
+Blake Gunn
+At the E.
+0:55:5.470 --> 0:55:22.650
+Robert Ruggiero
+I mean in, in selfishly from an organization standpoint and for you guys perspectives, we spend probably about umm no lie 100 times more No 10 times more 10 times more 4908 E then we do this device.
+0:55:24.160 --> 0:55:24.530
+Blake Gunn
+Understood.
+0:55:24.320 --> 0:55:33.0
+Robert Ruggiero
+Alright, So what you guys will see, you'll see a benefit on your on the, you know, things turning red, yellow or green.
+0:55:33.730 --> 0:55:37.400
+Robert Ruggiero
+You'll see that immediately because the cost of this is much lower.
+0:55:37.630 --> 0:55:42.270
+Robert Ruggiero
+So your profitability flags will turn green a lot sooner.
+0:55:44.90 --> 0:55:44.590
+Robert Ruggiero
+That makes sense.
+0:55:44.260 --> 0:55:44.790
+Blake Gunn
+Perfect.
+0:55:45.260 --> 0:55:45.720
+Blake Gunn
+Thank you, Sir.
+0:55:45.340 --> 0:55:51.190
+Robert Ruggiero
+The but E so that was an easy one.
+0:55:52.480 --> 0:55:53.650
+Robert Ruggiero
+I wanted to get to the fun ones.
+0:55:53.660 --> 0:55:56.430
+Robert Ruggiero
+If you guys don't have questions about the managed gateway.
+0:55:56.440 --> 0:55:58.170
+Robert Ruggiero
+I'll get to the one that I think is the most fun.
+0:55:59.900 --> 0:56:0.90
+Jorge Barrera
+Yes.
+0:55:58.220 --> 0:56:0.530
+Robert Ruggiero
+It's managed LAN alright.
+0:55:58.510 --> 0:56:1.170
+Adrian Garcia
+There's there's one more, I believe, Jorge. Yeah.
+0:56:1.360 --> 0:56:1.800
+Robert Ruggiero
+OK cool.
+0:56:1.520 --> 0:56:12.940
+Jorge Barrera
+Yes, a question do we need to have this when we are in a new analog line or the system, Salesforce will recognize that we need it and added automatically.
+0:56:14.340 --> 0:56:14.600
+Robert Ruggiero
+No.
+0:56:15.990 --> 0:56:31.380
+Robert Ruggiero
+So in today's world, I'll, I'll refrain go back to the whole you know it's it's, it's included for free for next month when we get to the new CPQ environment which will be in August release, it'll do it for you up until now you probably need to remember it.
+0:56:31.470 --> 0:56:35.120
+Robert Ruggiero
+I don't expect you guys to add it as a product on the order.
+0:56:35.770 --> 0:56:48.350
+Robert Ruggiero
+That's something that's added when we actually go through the sales order form process, but as an AE, you wouldn't have to worry about this for a month.
+0:56:48.410 --> 0:56:53.560
+Robert Ruggiero
+I other than it exists, it's a benefit, was talked to customer about how this is a benefit to them.
+0:56:53.570 --> 0:57:0.650
+Robert Ruggiero
+They're getting a $15.00 a month free service because they're doing this in July, is post August.
+0:57:2.50 --> 0:57:3.50
+Robert Ruggiero
+Hope that answered your question.
+0:57:6.800 --> 0:57:7.110
+Adrian Garcia
+Yeah.
+0:57:7.120 --> 0:57:9.550
+Adrian Garcia
+And if I could, if I could add a little bit to that.
+0:57:9.560 --> 0:57:28.190
+Adrian Garcia
+So, you know, back to Blake's question, you know, I think I think we've been pretty consistent, not even mentioning the power of our voice network when we deliver a converge, a converted service, right, you know, pots lines are it's it's old technology.
+0:57:28.380 --> 0:57:31.270
+Adrian Garcia
+I mean it's it's copper based technology.
+0:57:31.330 --> 0:57:44.750
+Adrian Garcia
+If our competitors selling pots line and a true pots line, they're selling an old technology and this is basically our saying, hey, we're able to emulate this older technology if you don't want to invest in our hosting environment.
+0:57:45.220 --> 0:57:57.810
+Adrian Garcia
+But we're also able to guarantee and ensure that it's delivered the way that it's supposed to be, and I think I think we need to kind of change the conversation just, you know, from just assuming that every carrier can deliver pots lines.
+0:57:57.820 --> 0:58:1.640
+Adrian Garcia
+But you know, we're in the digital world now.
+0:58:1.650 --> 0:58:6.700
+Adrian Garcia
+We need to be able to educate our customers a differences and this is an opportunity for us to be able to do that.
+0:58:6.710 --> 0:58:16.970
+Adrian Garcia
+And you know, if AT&T or the local exchange carrier, whoever might be, is providing plain old telephone lines, additional plain old telephone, they're going to rack rates right now at $50.00 a line.
+0:58:17.800 --> 0:58:39.660
+Adrian Garcia
+So we just have to be able to, you know, think about the value and not and and and kind of read train ourselves and saying hey, you know we're we're emulating older technology because you're not wanting to go and consider the hosting environment sort of speak right and this is part of us being able to guarantee and monitoring and make sure that it's worth way that you need it to be.
+0:58:39.730 --> 0:58:41.570
+Adrian Garcia
+So just wanted to add that note.
+0:58:48.820 --> 0:58:53.170
+Robert Ruggiero
+Oh, so I'm gonna move over to the next the thing I think this is the most fun.
+0:58:53.180 --> 0:58:58.450
+Robert Ruggiero
+This is the most exciting for me at least, so hopefully hopefully you catch on my excitement here.
+0:58:59.740 --> 0:59:3.710
+Robert Ruggiero
+So I'm we're gonna talk about managed land and yeah.
+0:59:3.720 --> 0:59:7.30
+Robert Ruggiero
+Believe it or not, you can be looking at the just thinking what is man's land?
+0:59:7.90 --> 0:59:7.550
+Robert Ruggiero
+What is it?
+0:59:7.560 --> 0:59:17.150
+Robert Ruggiero
+I've never had an experience it with it before, but managed line is basically is an Ethernet switch connecting conterra provided devices and custom as well as customer provided devices.
+0:59:18.720 --> 0:59:30.770
+Robert Ruggiero
+Anytime you guys go out there today and today's world and you sell a hosted voice solution, you sell hosted voice, see and you sell a A a phone IP phone that goes along with it, right?
+0:59:30.880 --> 0:59:53.380
+Robert Ruggiero
+Every time that happens, we provide a managed switch or before I switch out there, some people might refer to it as a Poe switch, but it's basically an Ethernet switch and we do that so that we can do because provisioning and configuration or those phones to hook to something that's Poe that can cook back into our network.
+0:59:53.390 --> 0:59:57.920
+Robert Ruggiero
+So we we do it because of the because we need to have that functionality.
+0:59:58.190 --> 0:59:59.280
+Robert Ruggiero
+Think of it this way.
+0:59:59.370 --> 1:0:24.360
+Robert Ruggiero
+Any customer that you walked into today in today's world that has either IP phones, maybe they have a printer, maybe they have multiple server stacks within their business environment, they have an Ethernet switch, they connect things, wired computer devices together, they disperse, they have a they provide you know some sort of security.
+1:0:24.370 --> 1:0:25.610
+Robert Ruggiero
+They provide routing protocols.
+1:0:25.620 --> 1:0:32.610
+Robert Ruggiero
+They provide things to allow those devices to talk to each other within, within the land environment, right.
+1:0:32.700 --> 1:0:38.570
+Robert Ruggiero
+And a lot of times those companies will provide will actually hire somebody outside to manage those switches.
+1:0:38.660 --> 1:0:50.70
+Robert Ruggiero
+Maybe they'll do it themselves, and I think anytime you talk to anybody 9/2 side about, you know, yeah, managing switches, they'll tell you it's a pain in the, in the rear, they'll do it.
+1:0:50.130 --> 1:0:50.990
+Robert Ruggiero
+So necessary evil.
+1:0:51.0 --> 1:0:58.500
+Robert Ruggiero
+They don't like doing it, so using this as a managed service is something is a big benefit in this managed land scenario.
+1:0:58.790 --> 1:1:3.400
+Robert Ruggiero
+Contera now is going to be providing those Ethernet switches for the customers.
+1:1:3.630 --> 1:1:39.80
+Robert Ruggiero
+We can continue to use them to connect container provided services like IP phones like umm you know forward extenders that I sold the wireless failover that Ford extender used to plug into something that's Ethernet switch to provide futuristic things maybe like a like you know API's for Wi-Fi, but it's also be able to support customer provided things that we don't sell like maybe the customer needs to connect their Canon printer I into their network or maybe they need to connect their VM stack into the network.
+1:1:39.150 --> 1:1:47.220
+Robert Ruggiero
+So that's switching itself is something that we would be able to provide as a service to customers provided as a managed service.
+1:1:47.230 --> 1:1:53.460
+Robert Ruggiero
+And the customer then can then cannot have to rely on either their internal resources to manage that splits or outsource it.
+1:1:53.470 --> 1:1:55.550
+Robert Ruggiero
+So that's something they can rely on conterra to do.
+1:1:56.240 --> 1:2:4.810
+Robert Ruggiero
+Again, this is a lot of new territory for you guys because I think for the most part, y'all are focusing on things that are router.
+1:2:5.670 --> 1:2:6.960
+Robert Ruggiero
+No ultra network.
+1:2:6.970 --> 1:2:8.420
+Robert Ruggiero
+Not from Broward, not router.
+1:2:8.430 --> 1:2:12.960
+Robert Ruggiero
+Inside the four walls, which is the lamp, there are some great information here.
+1:2:13.240 --> 1:2:17.280
+Robert Ruggiero
+Again, I think this link is the right one.
+1:2:17.290 --> 1:2:32.840
+Robert Ruggiero
+I will rely on Jackie and team to make sure that you guys have the right one, but there is a there is a nice little, you know, two page flyer to gives you the overviews of what it is kind of generally what I said and and yeah in in high level.
+1:2:33.110 --> 1:2:35.360
+Robert Ruggiero
+But there's also this really cool white paper here.
+1:2:35.890 --> 1:2:41.160
+Robert Ruggiero
+I'm not gonna click into it, but I will give you a how overview of exactly what it covers.
+1:2:41.170 --> 1:2:48.80
+Robert Ruggiero
+So it's basically A2 pager that gives you a nice little tutorial on what is the Ethernet switch.
+1:2:48.90 --> 1:2:49.80
+Robert Ruggiero
+Why is it important?
+1:2:49.150 --> 1:2:49.660
+Robert Ruggiero
+Why?
+1:2:49.710 --> 1:2:50.660
+Robert Ruggiero
+Why?
+1:2:51.210 --> 1:2:53.990
+Robert Ruggiero
+Why do E you know?
+1:2:54.0 --> 1:2:55.520
+Robert Ruggiero
+And users think as important work.
+1:2:55.560 --> 1:3:3.60
+Robert Ruggiero
+Why does it exist and and you know what's managed versus unmanaged when it comes to an Ethernet switch?
+1:3:3.70 --> 1:3:4.700
+Robert Ruggiero
+So it's a great little white paper.
+1:3:5.590 --> 1:3:6.600
+Robert Ruggiero
+It's a 2 pager.
+1:3:6.970 --> 1:3:8.190
+Robert Ruggiero
+I think it's an easy rate.
+1:3:8.200 --> 1:3:10.820
+Robert Ruggiero
+You may, you may disagree with me, right?
+1:3:10.960 --> 1:3:18.410
+Robert Ruggiero
+But it is available for you guys to look at and I would encourage you to go pull it up and just take a peek at it so that you're more comfortable with with what that land environment looks like.
+1:3:18.420 --> 1:3:21.400
+Robert Ruggiero
+So you can start having that conversation with customers.
+1:3:23.710 --> 1:3:23.970
+Robert Ruggiero
+So.
+1:3:28.540 --> 1:3:43.860
+Robert Ruggiero
+Basically what we're doing here is we are going to be providing the provisioning configuration, change management and monitoring of those switches, right, so that Ethernet switch in the customer's network, we're going to be valued, provisioning configuration, change management and monitoring.
+1:3:45.200 --> 1:3:46.570
+Robert Ruggiero
+I'm thinking 2 slides from now.
+1:3:46.580 --> 1:3:58.150
+Robert Ruggiero
+We'll look at the monitoring, but there's a huge benefit here from a customer perspective because they don't have to do the gory things that from a management perspective, we're doing a lot of that stuff for them.
+1:3:58.800 --> 1:4:12.310
+Robert Ruggiero
+Umm, so this is something that is generally available with one voice hosted and I'm gonna show you in a second when we pull Salesforce off and show you where you can pull it.
+1:4:12.320 --> 1:4:20.340
+Robert Ruggiero
+Get it from, but generally available with host it right, because today's world is associated with hosted voice, doesn't need to be.
+1:4:21.250 --> 1:4:35.520
+Robert Ruggiero
+But in today's world, for this particular month until the catalog new catalogs out there is associated with voice, cause you would sell it with, you would sell it with or be required with any hosted voice sale that you put out there, OK.
+1:4:37.80 --> 1:4:41.580
+Robert Ruggiero
+There is a managed land business and there's a managed lent enterprise.
+1:4:41.590 --> 1:4:43.990
+Robert Ruggiero
+I will tell you the difference to two of them in a second.
+1:4:44.240 --> 1:4:50.350
+Robert Ruggiero
+It's basically the quantity of ports, but once $50.00 a month $175 a month.
+1:4:51.280 --> 1:4:54.980
+Robert Ruggiero
+Umm I I personally think that's generally a bargain.
+1:4:55.140 --> 1:4:56.730
+Robert Ruggiero
+It requires a managed router.
+1:4:58.580 --> 1:5:17.780
+Robert Ruggiero
+The managed router is generally $30.00 a month and once again look at that on the right hand side you you get a benefit for a limited time only where if you guys select a managed LAN business switch for $50.00 that comes with a router.
+1:5:19.950 --> 1:5:26.560
+Robert Ruggiero
+Though comes with a managed router, so I'll pause there and make sure everybody kind of understands what I said and if I have to say it.
+1:5:26.570 --> 1:5:29.980
+Robert Ruggiero
+And yeah, different terms, but you guys.
+1:5:34.160 --> 1:5:36.50
+Robert Ruggiero
+Like did I did I get my message across?
+1:5:46.270 --> 1:5:46.950
+Grant Sullivan
+Deepest question.
+1:5:43.550 --> 1:5:47.840
+Robert Ruggiero
+Like it's like I like silence, so yes.
+1:5:51.530 --> 1:5:51.730
+Robert Ruggiero
+30.
+1:5:52.870 --> 1:5:53.40
+Keith Lloyd
+Yeah.
+1:5:53.50 --> 1:5:54.40
+Keith Lloyd
+Let me get off meet here.
+1:5:54.50 --> 1:6:3.80
+Keith Lloyd
+OK, I'm looking at this and I'm trying to understand that you're saying that, uh, it's gonna require a four gate router in order to do a managed LAN.
+1:6:4.160 --> 1:6:4.990
+Keith Lloyd
+Is that correct?
+1:6:5.50 --> 1:6:5.250
+Keith Lloyd
+OK.
+1:6:3.730 --> 1:6:5.790
+Robert Ruggiero
+Yep, that is correct.
+1:6:10.520 --> 1:6:11.80
+Robert Ruggiero
+That's correct.
+1:6:6.730 --> 1:6:16.600
+Keith Lloyd
+And the managed router is $30.00 a month and the land business switch is $50.00 or enterprise that $75.00 right?
+1:6:17.80 --> 1:6:17.270
+Robert Ruggiero
+Yep.
+1:6:20.170 --> 1:6:20.370
+Keith Lloyd
+OK.
+1:6:20.180 --> 1:6:21.30
+Robert Ruggiero
+And that open.
+1:6:20.160 --> 1:6:25.170
+Blake Gunn
+So normally 80 but 75 is a discounted rate, right?
+1:6:25.530 --> 1:6:26.300
+Blake Gunn
+If you're doing it.
+1:6:25.830 --> 1:6:26.780
+Keith Lloyd
+It's normally 80.
+1:6:27.840 --> 1:6:28.260
+Robert Ruggiero
+No.
+1:6:28.480 --> 1:6:29.380
+Blake Gunn
+50 + 30.
+1:6:30.700 --> 1:6:32.950
+Keith Lloyd
+Now that's for an Lt managed.
+1:6:28.830 --> 1:6:33.410
+Robert Ruggiero
+Yes, you have plus 30, no.
+1:6:32.960 --> 1:6:35.400
+Keith Lloyd
+That's a LTE backup there, right?
+1:6:38.880 --> 1:6:39.680
+Keith Lloyd
+Routers 30.
+1:6:36.500 --> 1:6:43.890
+Robert Ruggiero
+Routers 30 managed land switches last last switches 50 right so.
+1:6:42.20 --> 1:6:43.890
+Keith Lloyd
+OK, very good. OK.
+1:6:44.610 --> 1:6:46.530
+Robert Ruggiero
+Umm normally 80.
+1:6:48.220 --> 1:6:49.250
+Keith Lloyd
+Normally 80.
+1:6:49.690 --> 1:6:50.130
+Keith Lloyd
+How's that?
+1:6:50.140 --> 1:6:50.840
+Keith Lloyd
+Normally 80.
+1:6:49.790 --> 1:6:52.710
+Robert Ruggiero
+Right, 30 + 30 is 80.
+1:6:54.170 --> 1:6:54.570
+Keith Lloyd
+OK.
+1:6:55.400 --> 1:6:55.800
+Robert Ruggiero
+Right.
+1:6:55.880 --> 1:6:57.60
+Robert Ruggiero
+So the router is just the router.
+1:6:58.300 --> 1:7:0.190
+Robert Ruggiero
+Yeah, it doesn't include anything else.
+1:7:1.660 --> 1:7:1.910
+Keith Lloyd
+Umm.
+1:7:0.200 --> 1:7:2.230
+Robert Ruggiero
+It's just the router and now it.
+1:7:6.900 --> 1:7:7.160
+Keith Lloyd
+OK.
+1:7:2.240 --> 1:7:7.430
+Robert Ruggiero
+Now it has managed LAN switch associated with it, so that's $80.00 umm.
+1:7:7.610 --> 1:7:15.20
+Robert Ruggiero
+So between now and whenever the new catalog releases, the router is free, so the router is 0.
+1:7:15.960 --> 1:7:18.30
+Keith Lloyd
+OK, gotcha. OK.
+1:7:17.440 --> 1:7:22.380
+Robert Ruggiero
+So in in theory you can go out to the customer and I'm gonna kick myself for saying this.
+1:7:22.390 --> 1:7:24.30
+Robert Ruggiero
+But I know you're gonna know you're gonna do this.
+1:7:24.40 --> 1:7:26.770
+Robert Ruggiero
+And I'm not gonna Ding you for doing this.
+1:7:26.840 --> 1:7:32.940
+Robert Ruggiero
+If you walked out to a customer tomorrow and it was a, it was a, you know, flex Internet customer.
+1:7:32.950 --> 1:7:35.200
+Robert Ruggiero
+And they said, Keith, I need a router.
+1:7:36.170 --> 1:7:39.510
+Robert Ruggiero
+Your answer could be I can get you a router, you just need to buy.
+1:7:40.490 --> 1:7:46.270
+Robert Ruggiero
+I just need your voice service, so I'm hosted voice with the managed land router comes along with it.
+1:7:46.280 --> 1:7:49.90
+Robert Ruggiero
+You can use it for the switch and you can use it as a router for Internet.
+1:7:54.120 --> 1:7:56.430
+Robert Ruggiero
+Nope, I didn't complexity.
+1:7:55.540 --> 1:8:0.110
+Keith Lloyd
+So now you're saying that you have to have a voice product in order to get the managed LAN.
+1:8:1.360 --> 1:8:4.770
+Robert Ruggiero
+You need to manage last switch that comes with a router.
+1:8:8.400 --> 1:8:8.640
+Keith Lloyd
+OK.
+1:8:6.220 --> 1:8:9.490
+Robert Ruggiero
+I don't care what they what you sell it for, you can sell it for anything.
+1:8:18.700 --> 1:8:18.900
+Keith Lloyd
+OK.
+1:8:9.970 --> 1:8:20.910
+Robert Ruggiero
+If the customer doesn't have any services whatsoever and you just want to actually sell them managed land so that that they have a switch within their network that they want to manage print service on, you can do that.
+1:8:21.630 --> 1:8:22.310
+Keith Lloyd
+OK, great.
+1:8:22.270 --> 1:8:38.730
+Robert Ruggiero
+I I I guess my my thought process here is that in many cases when you're talking to customers, if that voice conversation comes up and their voice conversation includes hosted, it's gonna require and managed last switch.
+1:8:46.330 --> 1:8:48.420
+Andrew Taylor
+And what is managed land enterprise?
+1:8:50.380 --> 1:8:54.930
+Robert Ruggiero
+Ohh managed Land Air Prize is over here.
+1:8:56.680 --> 1:8:57.430
+Robert Ruggiero
+Good subway.
+1:8:57.500 --> 1:9:4.40
+Robert Ruggiero
+It actually supports 24 connected devices and I'll I'll get to the the visualization and a second it is a scene functionality.
+1:9:4.50 --> 1:9:5.70
+Robert Ruggiero
+It's just a larger switch.
+1:9:8.930 --> 1:9:10.970
+Andrew Taylor
+OK, how many ports is the regular manual switch?
+1:9:11.940 --> 1:9:15.50
+Robert Ruggiero
+It is a, so it's an 8 port or 24 port.
+1:9:21.490 --> 1:9:24.530
+Rusty Bunton
+Is that expandable Bob from 24?
+1:9:26.250 --> 1:9:29.730
+Robert Ruggiero
+Umm, you can sell as many colonies as you want.
+1:9:29.740 --> 1:9:39.960
+Robert Ruggiero
+I mean generally a 24 port switch is is you know for most of cases is going to be the first one you're gonna put out there and people will pull multiple switches within their within their network.
+1:9:41.580 --> 1:9:43.150
+Robert Ruggiero
+You can sell multiples of them.
+1:9:43.300 --> 1:9:44.920
+Robert Ruggiero
+I'm very, you know.
+1:9:46.110 --> 1:9:56.740
+Robert Ruggiero
+Umm, but I I think as you get into the land design of the heaven, that good conversation with them with the customer on you know how many switches they have the currently or what their ideal switch placement looks like.
+1:9:56.870 --> 1:10:1.530
+Robert Ruggiero
+A great conversation to have and to to drag your Essie into that conversation.
+1:10:2.750 --> 1:10:4.90
+Rusty Bunton
+In the Knox support test.
+1:10:5.960 --> 1:10:12.340
+Robert Ruggiero
+Yes, everybody can support it because you guys any more questions?
+1:10:12.350 --> 1:10:12.970
+Robert Ruggiero
+The technical stuff.
+1:10:12.980 --> 1:10:14.530
+Robert Ruggiero
+I'll show you the really cool the second.
+1:10:14.580 --> 1:10:15.700
+Robert Ruggiero
+Really, really cool thing here.
+1:10:16.470 --> 1:10:16.770
+Jorge Barrera
+Yes.
+1:10:17.920 --> 1:10:18.130
+Robert Ruggiero
+Yep.
+1:10:16.780 --> 1:10:27.180
+Jorge Barrera
+Question with these are we going to provide with the I mean the sign for the bill lens segregated traffic in a metropolitan network, for example?
+1:10:31.220 --> 1:10:36.510
+Robert Ruggiero
+So these are E land switches, not land switches.
+1:10:37.900 --> 1:10:38.280
+Jorge Barrera
+OK.
+1:10:41.600 --> 1:10:41.870
+Jorge Barrera
+So.
+1:10:37.610 --> 1:10:43.70
+Robert Ruggiero
+So Yep, we will, yeah.
+1:10:50.40 --> 1:10:50.530
+Keith Lloyd
+OK, Bob.
+1:10:51.250 --> 1:10:51.880
+Jorge Barrera
+You'll no.
+1:10:51.950 --> 1:10:57.930
+Jorge Barrera
+Are we going to also work with the IP schemes and and provide the the internal IP's and?
+1:11:2.620 --> 1:11:2.780
+Robert Ruggiero
+Yeah.
+1:11:2.380 --> 1:11:3.770
+Keith Lloyd
+Bob, go to your other slide.
+1:11:3.780 --> 1:11:4.750
+Keith Lloyd
+You just had up there.
+1:11:4.760 --> 1:11:6.590
+Keith Lloyd
+It discusses the Vlans and stuff.
+1:11:6.600 --> 1:11:7.470
+Keith Lloyd
+Go to your other slide.
+1:11:7.480 --> 1:11:8.280
+Keith Lloyd
+You just had up there.
+1:11:8.290 --> 1:11:8.620
+Keith Lloyd
+There you go.
+1:11:8.500 --> 1:11:9.30
+Robert Ruggiero
+This one here.
+1:11:9.560 --> 1:11:10.360
+Grant Sullivan
+Yeah, it's, it's.
+1:11:10.460 --> 1:11:17.490
+Grant Sullivan
+Local network VLAN management yes, and IP address management and all that kind of stuff within the current LAN, not Wan.
+1:11:22.880 --> 1:11:23.90
+Robert Ruggiero
+Umm.
+1:11:20.400 --> 1:11:24.500
+Keith Lloyd
+It run DHCP forum, he'll give static IP addresses.
+1:11:24.510 --> 1:11:28.0
+Keith Lloyd
+You can build your 10.10 addresses, those kind of things.
+1:11:28.70 --> 1:11:30.270
+Keith Lloyd
+For that, they'll need to do OK.
+1:11:31.540 --> 1:11:31.850
+Jorge Barrera
+OK.
+1:11:31.860 --> 1:11:32.180
+Jorge Barrera
+Thank you.
+1:11:32.960 --> 1:11:39.320
+Robert Ruggiero
+Yep, so there was I and I I didn't want to do the odds chart on this but to but it's a good.
+1:11:39.370 --> 1:11:50.980
+Robert Ruggiero
+It's good that you brought up the the part of the two pager that that we the two page that we produce from a marketing standpoint, it actually shows you supported configurations on page 2.
+1:11:51.550 --> 1:11:53.180
+Robert Ruggiero
+So I'll give you some insight there.
+1:11:53.590 --> 1:11:56.30
+Robert Ruggiero
+There's also some other technical information.
+1:11:56.40 --> 1:11:56.580
+Robert Ruggiero
+They'll give.
+1:11:56.590 --> 1:12:5.120
+Robert Ruggiero
+Make sure you get your hands on from a spec viewpoint so you have more intimate details on what we can and can't support from a configuration standpoint.
+1:12:5.420 --> 1:12:6.680
+Robert Ruggiero
+So did one of the hide it from you.
+1:12:6.690 --> 1:12:15.800
+Robert Ruggiero
+But I also didn't want to drag everybody down in the weeds of the limited time limited time behalf, so hopefully that answers questions I'll get to the cool part.
+1:12:15.810 --> 1:12:19.490
+Robert Ruggiero
+This is the this is one of the more cooler pieces out there.
+1:12:20.570 --> 1:12:25.120
+Robert Ruggiero
+So when was the last time you actually saw a personalized portal view that conterra provided to customers?
+1:12:25.160 --> 1:12:31.790
+Robert Ruggiero
+So they can get understanding of their their switch and router health before we know have we only people say never.
+1:12:32.980 --> 1:12:33.400
+Rusty Wilson
+Never.
+1:12:36.320 --> 1:12:42.250
+Robert Ruggiero
+Alright, so this is what I think is a pretty cool part about this with managed land.
+1:12:42.260 --> 1:12:47.850
+Robert Ruggiero
+Customers will be getting a personalized portal view, so I wish I had a bigger screen on this.
+1:12:47.860 --> 1:12:59.890
+Robert Ruggiero
+We will spend a lot more time in the coming months of like, you know what this portal view looks like because it's I think it's a huge benefit for a customer perspective, but they're going to go in there, be able to take a look at their managed land switches.
+1:13:0.100 --> 1:13:2.220
+Robert Ruggiero
+They'll actually even be able to look at their managed router.
+1:13:2.630 --> 1:13:6.380
+Robert Ruggiero
+So because we're pulling router in there, they can look at the managed router.
+1:13:6.610 --> 1:13:8.730
+Robert Ruggiero
+They can look at things that are attached to the man's router.
+1:13:9.780 --> 1:13:10.50
+Robert Ruggiero
+OK.
+1:13:10.60 --> 1:13:28.570
+Robert Ruggiero
+So they'll be able to look at if you sold them wireless failover, they can look at the wireless failover and they can get a good understanding of what that health looks like, what the traffic flow looks like, they can go in there and they can do similar some things in a limited functionality to actually make changes without actually coming to us and asking us for it.
+1:13:29.460 --> 1:13:31.780
+Robert Ruggiero
+Umm this is a customer facing view.
+1:13:33.110 --> 1:13:37.20
+Robert Ruggiero
+They get to view real time performance stats.
+1:13:37.900 --> 1:13:45.360
+Robert Ruggiero
+They can project future trends out of this portal this dashboard so they can view device health and historic reporting.
+1:13:45.450 --> 1:13:49.840
+Robert Ruggiero
+They can actually schedule reports to drop to them on a weekly or monthly basis.
+1:13:49.850 --> 1:13:54.60
+Robert Ruggiero
+They can schedule alerts that something happens and they want an alert to go to them.
+1:13:54.60 --> 1:13:58.960
+Robert Ruggiero
+As they're the IT manager, so this is a customer facing view and I probably did.
+1:13:59.0 --> 1:14:7.310
+Robert Ruggiero
+I didn't do it justice on making this exciting enough, but hopefully this is a welcome, you know, piece of information for you guys.
+1:14:13.830 --> 1:14:17.810
+Rusty Wilson
+So well, this is required if they have hosted voice.
+1:14:20.750 --> 1:14:20.910
+Robert Ruggiero
+Yes.
+1:14:21.50 --> 1:14:21.591
+Rusty Wilson
+This is E.
+1:14:24.290 --> 1:14:24.940
+Rusty Wilson
+OK, I'm.
+1:14:24.950 --> 1:14:32.570
+Rusty Wilson
+I'm just getting concerned with with the mom and pop shops that we're we're throwing always requirements and more cost on them.
+1:14:32.980 --> 1:14:37.370
+Rusty Wilson
+Ohh so it's not optional, it's mandatory.
+1:14:37.580 --> 1:14:45.340
+Robert Ruggiero
+But yeah, I mean today, today we don't we I mean we don't put we don't put the phones in anywhere without us without a switch.
+1:14:46.730 --> 1:14:48.390
+Robert Ruggiero
+So there's there's no difference there.
+1:14:48.400 --> 1:14:55.670
+Robert Ruggiero
+It's just that you we're providing a benefit from a from a managed managed which perspective?
+1:14:54.790 --> 1:14:56.710
+Rusty Wilson
+You should you tell me.
+1:14:56.110 --> 1:14:58.10
+Andrew Ellender
+But the point should be that we're.
+1:14:56.720 --> 1:14:58.830
+Rusty Wilson
+There's no, there's no difference.
+1:14:58.900 --> 1:15:1.300
+Rusty Wilson
+There's no difference in cost to them is that we're trying.
+1:15:1.310 --> 1:15:1.970
+Rusty Wilson
+Is that what you're saying?
+1:15:3.850 --> 1:15:4.590
+Robert Ruggiero
+Different groups.
+1:15:1.470 --> 1:15:4.970
+Andrew Ellender
+Yes, there is a difference in cost rusting.
+1:15:5.850 --> 1:15:6.170
+Rusty Wilson
+OK.
+1:15:6.890 --> 1:15:8.500
+Rusty Wilson
+Yeah, well, that's that's my understanding.
+1:15:9.560 --> 1:15:9.830
+Robert Ruggiero
+Umm.
+1:15:8.510 --> 1:15:19.320
+Rusty Wilson
+But we're saying there's no difference to them when we're, you know, there is a custom a large percent of our market is uh ruling anyway, whatever.
+1:15:19.370 --> 1:15:20.550
+Rusty Wilson
+I just wanted to make sure I had that clear.
+1:15:21.180 --> 1:15:21.810
+Robert Ruggiero
+Yeah, yeah.
+1:15:21.820 --> 1:15:30.590
+Robert Ruggiero
+I mean and and again a lot of those, I mean if you think of it this way, you can we can, you know, spend some more time from you know getting to understand what a what a land looks like.
+1:15:31.80 --> 1:15:41.520
+Robert Ruggiero
+But you know, unless you are just running a the laptop and no other computers connected at your business, right, you need to have.
+1:15:41.650 --> 1:15:48.910
+Robert Ruggiero
+You will need to have a switch or hub if you have multiple compute device connect to each other to get bandwidth.
+1:15:49.890 --> 1:16:7.140
+Robert Ruggiero
+It's you can't run without that, so you know there's benefits there because that mom and pop either they're probably not experts in managing switches and they may have to outsource that to somebody within the community to do it for them.
+1:16:7.150 --> 1:16:10.360
+Robert Ruggiero
+That charges 100 and dollars an hour $150.00 an hour.
+1:16:10.730 --> 1:16:12.70
+Robert Ruggiero
+So there are some benefits there.
+1:16:25.900 --> 1:16:26.100
+Maribel Mendez
+Also.
+1:16:12.80 --> 1:16:28.230
+Robert Ruggiero
+I agree that this additional cost at a monthly recurring basis, but it does provide some benefit to the customer where it's kind of something that can offload, you know to another organization and not have to focus on managing those pieces of their land.
+1:16:31.420 --> 1:16:31.650
+Maribel Mendez
+There's.
+1:16:28.500 --> 1:16:36.860
+Robert Ruggiero
+So, and he and any other questions I know I'm burning up a lot of time here, but I did think this is a pretty.
+1:16:37.740 --> 1:16:38.140
+Maribel Mendez
+There is.
+1:16:37.700 --> 1:16:38.190
+Maribel Mendez
+It is.
+1:16:36.990 --> 1:16:39.550
+Andrew Taylor
+And these are 1 gig, 10 gig or.
+1:16:39.210 --> 1:16:47.20
+Maribel Mendez
+There is usually an out of pocket cost for a router for a customer if they have to manage it themselves.
+1:16:47.30 --> 1:16:49.380
+Maribel Mendez
+So this is something that they're not gonna pay out of pocket anymore.
+1:16:39.130 --> 1:16:51.40
+Maribel Mendez
+There is usually an out of pocket cost for a router for a customer if they have to manage it themselves, so this is something that they're Robertson.
+1:16:50.270 --> 1:16:51.220
+Maribel Mendez
+The router or the switch?
+1:16:55.610 --> 1:16:57.450
+Speaker 1
+I couldn't understand that it was kind of.
+1:16:57.280 --> 1:16:58.620
+Robert Ruggiero
+Yeah, you're you're echoing.
+1:17:1.200 --> 1:17:1.800
+Maribel Mendez
+Can you hear me OK?
+1:17:4.380 --> 1:17:4.540
+Maribel Mendez
+Hello.
+1:17:4.760 --> 1:17:5.250
+Speaker 1
+Keep talking.
+1:17:6.900 --> 1:17:8.50
+Andrew Ellender
+It's it's a little better now.
+1:17:14.350 --> 1:17:15.0
+Andrew Ellender
+We can hear you.
+1:17:15.530 --> 1:17:16.320
+Robert Ruggiero
+Yes, we can.
+1:17:16.680 --> 1:17:17.490
+Robert Ruggiero
+Well, we we used it.
+1:17:23.940 --> 1:17:24.840
+Andrew Taylor
+I'd wanted to ask.
+1:17:24.880 --> 1:17:25.90
+Robert Ruggiero
+No.
+1:17:23.470 --> 1:17:25.330
+Speaker 1
+If you're talking now, we can't hear you.
+1:17:26.10 --> 1:17:26.170
+Robert Ruggiero
+Yeah.
+1:17:30.520 --> 1:17:34.170
+Andrew Taylor
+Are these one gig switches or are they capable of going higher?
+1:17:35.790 --> 1:17:37.240
+Robert Ruggiero
+They are capable of going higher.
+1:17:38.690 --> 1:17:46.570
+Robert Ruggiero
+When I'm gonna try and share with you now is E I'll show you where it sits in CPQ.
+1:17:53.510 --> 1:17:58.80
+Robert Ruggiero
+So again it for lack of better place to putting it sits under hosted voice.
+1:18:0.710 --> 1:18:6.630
+Robert Ruggiero
+Because it's generally required when you sell a hosted seat, you can't sell it.
+1:18:6.640 --> 1:18:18.510
+Robert Ruggiero
+Stand alone if you want to by going to 1 voice hosted bundle going to edge and selecting either enterprise for managed land business.
+1:18:20.720 --> 1:18:23.620
+Robert Ruggiero
+So hopefully that was E it's an easy way to get to it.
+1:18:25.740 --> 1:18:31.670
+Robert Ruggiero
+I'll go ahead and select both of these things just to show you that I've saved it and it's not going to require that you put a voice line on it.
+1:18:33.460 --> 1:18:35.220
+Robert Ruggiero
+Ohh, maybe it is started.
+1:18:35.720 --> 1:18:36.890
+Robert Ruggiero
+Ah sorry.
+1:18:40.710 --> 1:18:41.0
+Robert Ruggiero
+I feel.
+1:18:41.210 --> 1:18:45.360
+Speaker 1
+Bob, we're we're seeing that CPQ product selection slide.
+1:18:45.370 --> 1:18:46.810
+Speaker 1
+If you're showing it in Salesforce.
+1:18:45.40 --> 1:18:48.250
+Robert Ruggiero
+Ohh E The that's why.
+1:18:48.260 --> 1:18:49.670
+Robert Ruggiero
+OK, so let me cancel this then.
+1:18:50.80 --> 1:18:50.910
+Robert Ruggiero
+Thank you tashia.
+1:18:51.80 --> 1:18:52.750
+Robert Ruggiero
+I was too many screens up and running.
+1:18:52.800 --> 1:18:53.400
+Robert Ruggiero
+Apologize for that.
+1:18:53.950 --> 1:18:54.430
+Speaker 1
+No problem.
+1:18:55.280 --> 1:18:57.970
+Robert Ruggiero
+So OK, cancel this to show you exactly where it is.
+1:18:57.980 --> 1:18:59.310
+Robert Ruggiero
+This is a CPQ quote.
+1:18:59.320 --> 1:19:7.410
+Robert Ruggiero
+I'm going to go into the new catalog in his selected 1 voice hosted because that's generally where you're going to be associated with it.
+1:19:7.420 --> 1:19:8.90
+Robert Ruggiero
+So hosted seat.
+1:19:8.100 --> 1:19:10.570
+Robert Ruggiero
+You're gonna have to have a man's land product.
+1:19:10.700 --> 1:19:11.560
+Robert Ruggiero
+So I want to select it.
+1:19:14.270 --> 1:19:14.530
+Robert Ruggiero
+Right.
+1:19:15.920 --> 1:19:18.130
+Robert Ruggiero
+So you will find manage layouts.
+1:19:18.140 --> 1:19:19.381
+Robert Ruggiero
+Say I'm gonna do a E.
+1:19:23.360 --> 1:19:25.370
+Robert Ruggiero
+Doesn't really make what different seed to this right?
+1:19:25.380 --> 1:19:28.970
+Robert Ruggiero
+And then do that, I'm going to have a phone. Right?
+1:19:29.710 --> 1:19:31.820
+Robert Ruggiero
+And then I'm going to go to Edge and I'm gonna fly.
+1:19:31.830 --> 1:19:36.720
+Robert Ruggiero
+Manage land, so I'm go ahead and select either one of these things.
+1:19:39.320 --> 1:19:39.540
+Robert Ruggiero
+Then.
+1:19:41.880 --> 1:19:46.0
+Robert Ruggiero
+When it's done thinking in return back OK.
+1:19:50.120 --> 1:19:53.180
+Robert Ruggiero
+Here and you will see a man's land business, man's land enterprise.
+1:19:55.580 --> 1:20:5.230
+Robert Ruggiero
+So what is available for you guys to select thing and see if PQ again it'll show up as 1575 E It will come for a limited time with the manager router.
+1:20:5.240 --> 1:20:7.370
+Robert Ruggiero
+So that's a four to gate of 40F.
+1:20:7.380 --> 1:20:12.730
+Robert Ruggiero
+It's gonna come with umm SO1 router per location that one router per switch.
+1:20:12.740 --> 1:20:14.250
+Robert Ruggiero
+As you guys know, the customer may.
+1:20:15.870 --> 1:20:24.380
+Robert Ruggiero
+Have the need for multiple switches LAN switches within their building, but they will connect to a single router.
+1:20:24.390 --> 1:20:31.470
+Robert Ruggiero
+SO1 router per location it will come with so.
+1:20:34.950 --> 1:20:36.380
+Robert Ruggiero
+I'll back up a second.
+1:20:36.890 --> 1:20:41.630
+Robert Ruggiero
+So before we jump off to the next bucket of fun, any questions?
+1:20:51.40 --> 1:20:51.680
+Robert Ruggiero
+Beautiful.
+1:20:51.740 --> 1:20:52.190
+Robert Ruggiero
+Cool.
+1:20:52.290 --> 1:21:31.690
+Robert Ruggiero
+Umm, so you know once again when we went to the beginning of this whole thing, there was A and we'll provide the copy this presentation, the Flyers great, the the White Papers, really good piece information for you to kind of read and get an understanding of when the supplies how this applies what the benefits are to it customers from an IT standpoint and your SE's are awesome awesome resources they will be able to help you have this discussion with the customers and put it a little bit more into perspective if needed and so please rely on your ressies they are they a great crutch when it comes to managed land services.
+1:21:31.740 --> 1:21:40.550
+Robert Ruggiero
+So with that said, I have one more one teaser thing to drop out for you guys.
+1:21:47.610 --> 1:22:8.380
+Robert Ruggiero
+So E we're going to do a little bit of audience participation on this one and to get it just a general understanding from so, who's familiar with what Adidas attack is and and how it impacts and customers.
+1:22:9.560 --> 1:22:16.90
+Robert Ruggiero
+So I just want to get a feel for how deep into the details I need to get or how high level I could stay.
+1:22:19.290 --> 1:22:26.640
+Rusty Wilson
+Just what I understand it, it's something that some hacker, whatever it's floods, floods your network, makes it unavailable.
+1:22:26.650 --> 1:22:29.20
+Rusty Wilson
+Is that accurate?
+1:22:29.800 --> 1:22:31.70
+Robert Ruggiero
+That's generally accurate.
+1:22:31.300 --> 1:22:36.180
+Robert Ruggiero
+So today we don't have and today we don't do this for custom.
+1:22:36.190 --> 1:22:46.720
+Robert Ruggiero
+We don't sell this as a service to customers, so today's world, if somebody does it, distribute diesel service attacker.
+1:22:46.730 --> 1:22:56.710
+Robert Ruggiero
+If you'd ask attack, basically they go out there and they're taking a whole bunch of bots and they're saying let's see how much traffic we can send to Rusty's website.
+1:22:56.860 --> 1:23:5.120
+Robert Ruggiero
+Or Rusty server with the intention of just making it unavailable so they're doing something malicious to make it unavailable so they are flooding that.
+1:23:6.220 --> 1:23:11.90
+Robert Ruggiero
+So today's world, our customers still are susceptible to DOS attacks, right?
+1:23:11.760 --> 1:23:16.130
+Robert Ruggiero
+So we do stuff to protect our network, but we don't do stuff to protect our customers.
+1:23:18.420 --> 1:23:24.220
+Robert Ruggiero
+So it's basically a threat to service availability on business continuity.
+1:23:24.270 --> 1:23:35.750
+Robert Ruggiero
+It will impact their brand reputation because if you were site or service go down and you're and you're trying to sell things to the outside world, it really looks bad from an organizational standpoint.
+1:23:35.840 --> 1:23:38.770
+Robert Ruggiero
+It's also them some impact from security view.
+1:23:39.320 --> 1:23:42.500
+Robert Ruggiero
+So do you Doss texts are out there all over the place.
+1:23:44.60 --> 1:23:58.760
+Robert Ruggiero
+And what we're doing with this new solution is we are providing managed DDoS that would mitigation, MSD loss protection as a service, right.
+1:23:58.940 --> 1:24:9.350
+Robert Ruggiero
+So this is something that we can provide to any customer who is a conterra Internet customer and I'll get into the details of what the impact is from a monetary standpoint in a second.
+1:24:9.720 --> 1:24:13.50
+Robert Ruggiero
+But basically what we're doing is we're doing Deepak inspection at the edge.
+1:24:13.620 --> 1:24:18.70
+Robert Ruggiero
+So we're so it's a very quick time for to mitigate service.
+1:24:18.80 --> 1:24:18.630
+Robert Ruggiero
+So did U.S.
+1:24:18.640 --> 1:24:22.550
+Robert Ruggiero
+Tax happens, we can mitigate service from that particular customer.
+1:24:23.120 --> 1:24:28.990
+Robert Ruggiero
+We have a live Dudas tech monitoring dashboards and we'll there's a little picture on the left hand side.
+1:24:29.0 --> 1:24:29.490
+Robert Ruggiero
+I'm not going to.
+1:24:29.500 --> 1:24:33.990
+Robert Ruggiero
+I don't think I'm going to go into the gory diesel till details of what it looks like right now.
+1:24:34.0 --> 1:24:45.450
+Robert Ruggiero
+We'll do that later on, but there is a dashboard customers can actually see and they can see whether there's a DDoS attack and they could, they could see what's happening and what IPS is the address ranges.
+1:24:45.460 --> 1:24:50.870
+Robert Ruggiero
+It's actually impacting umm so it is a live dashboard.
+1:24:50.880 --> 1:24:57.600
+Robert Ruggiero
+They're gonna be able to see to provide historical DDoS attack reporting, and then there's automated event alerts.
+1:24:57.610 --> 1:25:11.990
+Robert Ruggiero
+So if the customer wants to know, uh, you know, every time that their network is, there's a details tech it's associated or from on their network and they want to know that even though we're mitigating it, we can act, they can actually set up alerts.
+1:25:12.330 --> 1:25:16.40
+Robert Ruggiero
+Umm to to get that information right?
+1:25:16.50 --> 1:25:18.800
+Robert Ruggiero
+So this is all on a wonderful little new dashboard.
+1:25:19.450 --> 1:25:44.210
+Robert Ruggiero
+It does remove all DDoS traffic from destined for the network, reroutes it through Security Service, and basically, well, I say a top notch, you know, DDoS mitigation and and umm platform, so does the Super high level, we'll get into a lot of details from a D Dos education perspective it in the next few weeks.
+1:25:44.220 --> 1:25:50.630
+Robert Ruggiero
+But I want to at least give you a high level understanding what details tech is and what a CONTERRA managed details service is.
+1:25:50.720 --> 1:25:57.870
+Robert Ruggiero
+So before I before I move on to the impact portion, is there, is there any questions on this?
+1:26:4.10 --> 1:26:6.220
+Tracy Vincent
+Bob does this slow down the system very much.
+1:26:4.430 --> 1:26:6.890
+Jorge Barrera
+He has work question, yeah.
+1:26:6.310 --> 1:26:7.310
+Tracy Vincent
+The legacy you have it.
+1:26:8.680 --> 1:26:9.70
+Robert Ruggiero
+It was.
+1:26:9.80 --> 1:26:11.430
+Robert Ruggiero
+This is something that's gonna be integrated into our network.
+1:26:11.440 --> 1:26:13.380
+Robert Ruggiero
+It's not gonna say there is no slowdown.
+1:26:13.800 --> 1:26:15.170
+Robert Ruggiero
+I'm you.
+1:26:15.220 --> 1:26:16.620
+Robert Ruggiero
+You will not notice a slowdown at all.
+1:26:18.50 --> 1:26:21.440
+Robert Ruggiero
+Umm, it is matter of fact customers that actually do have this.
+1:26:21.450 --> 1:26:23.880
+Robert Ruggiero
+What will notice an increase in bandwidth speech?
+1:26:24.50 --> 1:26:29.220
+Robert Ruggiero
+Because we are taking malicious traffic and we're and we're isolating that.
+1:26:29.840 --> 1:26:33.400
+Robert Ruggiero
+And they're not going to be consuming any malicious traffic.
+1:26:35.190 --> 1:26:35.530
+Tracy Vincent
+Thank you.
+1:26:36.90 --> 1:26:36.270
+Robert Ruggiero
+Yep.
+1:26:37.550 --> 1:26:45.640
+Jorge Barrera
+Now the remediation is going to happen after the attack is occurring or is going to be actively scrubbing the IP's.
+1:26:45.650 --> 1:26:48.250
+Jorge Barrera
+'S I packages all the time.
+1:26:47.230 --> 1:26:52.330
+Robert Ruggiero
+Uh, it it is actively scrubbing traffic, so they're active scrubbers.
+1:26:55.110 --> 1:26:56.80
+Robert Ruggiero
+Which is being mean.
+1:26:56.150 --> 1:27:3.800
+Robert Ruggiero
+It's part of the reason why we we had we put it so close to our Internet peering points because we didn't want it to transverse network.
+1:27:3.850 --> 1:27:11.160
+Robert Ruggiero
+So if some point we get into the more details, we'll get some design documents on how exactly that flow looks like from a network perspective.
+1:27:11.450 --> 1:27:12.880
+Robert Ruggiero
+Also, you know great information.
+1:27:12.890 --> 1:27:17.40
+Robert Ruggiero
+It'll be included in in in the in the one pagers.
+1:27:17.630 --> 1:27:42.600
+Robert Ruggiero
+The reason that this is such high level today is because this is a this is a September offering, but the way that we're we're moving towards the product solution we have to we have to sub really some messaging today to existing base and then get in getting you guys up to speed on what it is.
+1:27:42.610 --> 1:27:44.20
+Robert Ruggiero
+So we can start selling it.
+1:27:44.430 --> 1:27:53.200
+Robert Ruggiero
+It'll be available in September time frame with some more detailed information from a white paper and in products look perspective.
+1:27:55.190 --> 1:27:58.50
+Jorge Barrera
+Are we doing it right now for our clients or not?
+1:28:0.70 --> 1:28:3.60
+Robert Ruggiero
+Umm, that's a loaded question.
+1:28:3.70 --> 1:28:10.740
+Robert Ruggiero
+So if you think about what we're doing from a DDoS protection standpoint, basically we're black hole in the traffic.
+1:28:11.340 --> 1:28:14.950
+Robert Ruggiero
+Umm I as a purist would not consider that DDoS protection.
+1:28:15.800 --> 1:28:20.380
+Robert Ruggiero
+We're not doing stroke, scrubbing and mitigation, so there is a level of protection out there.
+1:28:21.0 --> 1:28:25.30
+Robert Ruggiero
+This is a very high level of protection that we're providing our customers.
+1:28:25.40 --> 1:28:33.800
+Robert Ruggiero
+So there's a big difference and you'll see that we're, you know ones, quote unquote free and the other one has a price tag associated with it.
+1:28:34.0 --> 1:28:36.260
+Robert Ruggiero
+But it's like night and day.
+1:28:41.830 --> 1:28:42.320
+Robert Ruggiero
+Gotcha.
+1:28:42.380 --> 1:28:48.510
+Robert Ruggiero
+Alright, so this is more of an awareness thing from you guys perspective.
+1:28:48.520 --> 1:28:51.130
+Robert Ruggiero
+Again, new logo service.
+1:28:51.140 --> 1:28:54.240
+Robert Ruggiero
+We're gonna target August 2023 as availability.
+1:28:54.380 --> 1:29:5.930
+Robert Ruggiero
+So when we actually get to the August 232332023 availability section, can't speak today on his tied, we'll have a lot more details from a white paper spective.
+1:29:6.0 --> 1:29:16.220
+Robert Ruggiero
+We'll have we'll spend a lot more time doing some training, but the way this thing is working currently is that we're putting this in our network, you know, with a September target date.
+1:29:17.70 --> 1:29:21.270
+Robert Ruggiero
+And this is something that our enterprise customers are going to be receiving.
+1:29:21.280 --> 1:29:30.270
+Robert Ruggiero
+So existing enterprise customers going to be receiving this, I'll for the for the benefit of the folks that are on the call that are not enterprise.
+1:29:30.910 --> 1:29:37.390
+Robert Ruggiero
+Umm, this is something that's not going to be applied directly to education or government.
+1:29:37.900 --> 1:29:56.710
+Robert Ruggiero
+It is something that we can actually sell to them as a separate solution, but for enterprise customers, if you're an asymmetric learning Internet customer on the enterprise side, it is a Doss protects surcharge that will be added to that customer circuit at $15 per month.
+1:29:57.550 --> 1:30:3.370
+Robert Ruggiero
+So umm, high level customers buying something that looks and feels like asymmetrical.
+1:30:4.250 --> 1:30:7.360
+Robert Ruggiero
+I'll remove we have called that in the legacy pass from legacy catalogs.
+1:30:7.810 --> 1:30:21.130
+Robert Ruggiero
+If it's not a symmetrical bandwidth customer flex or whatever $15 month surcharge, if there is symmetrical Internet customer then DDoS protected is applied to those customers at $40 per month surcharge.
+1:30:22.110 --> 1:30:26.280
+Robert Ruggiero
+So there is a there is a there's an opt out for existing customers.
+1:30:26.290 --> 1:30:43.490
+Robert Ruggiero
+We'll get to that screen in a second, but basically in the future I won't spend too much time on the pricing plans because that is a new catalog discussion, but it will be included in pricing plans on when the new catalog is released.
+1:30:44.810 --> 1:30:46.440
+Robert Ruggiero
+So I did say a lot.
+1:30:46.450 --> 1:30:57.280
+Robert Ruggiero
+I'm going to pause here because I know that there's probably any of you guys that are stored supporting existing customers may have questions that I don't want to.
+1:30:57.860 --> 1:30:59.630
+Robert Ruggiero
+I don't want to gloss over your questions.
+1:31:1.150 --> 1:31:4.420
+Grant Sullivan
+Yeah, before, before people get on here and start talking about it too.
+1:31:4.430 --> 1:31:6.0
+Grant Sullivan
+I just want to make sure that everybody understands.
+1:31:6.10 --> 1:31:15.370
+Grant Sullivan
+So we've got two months of a biller message going out, giving customers the ability to to call in and opt out.
+1:31:15.380 --> 1:31:29.610
+Grant Sullivan
+So if they call you directly and they want to know about the service, you know it is an active DDoS mitigation product that we're putting into the network mining and I access considerable amount of capital to be able to do this for protection for all of our customers.
+1:31:29.920 --> 1:31:33.570
+Grant Sullivan
+And but the customer decides that they don't want that.
+1:31:34.40 --> 1:31:38.150
+Grant Sullivan
+They can opt out before the September 1st billing and matter of fact, they can opt out anytime.
+1:31:38.380 --> 1:31:42.880
+Grant Sullivan
+They want to after that and we will take them off of that service.
+1:31:44.590 --> 1:31:56.880
+Grant Sullivan
+But you know it's it's something that that we have seen, you know, an increase in in DDoS attacks and instead of, you know taking a customer and blackholing them and they lose their Internet service.
+1:31:56.890 --> 1:32:1.300
+Grant Sullivan
+This is actively scrubbing it, saying the service through and it is a huge benefit to them.
+1:32:4.70 --> 1:32:4.790
+Grant Sullivan
+They'll pause there.
+1:32:14.230 --> 1:32:19.200
+Keith Lloyd
+So we are going to send something out to our existing customer base explaining what this is gonna be.
+1:32:20.270 --> 1:32:21.980
+Keith Lloyd
+It's gonna be in their bill, basically.
+1:32:24.290 --> 1:32:24.840
+Robert Ruggiero
+Absolutely.
+1:32:25.740 --> 1:32:25.870
+Keith Lloyd
+Yeah.
+1:32:24.850 --> 1:32:27.50
+Robert Ruggiero
+So the bill message is is going out.
+1:32:27.130 --> 1:32:28.600
+Robert Ruggiero
+So what is the bill message here?
+1:32:28.810 --> 1:32:34.180
+Robert Ruggiero
+It will point the customers to a a website for more detailed information.
+1:32:34.190 --> 1:32:36.970
+Robert Ruggiero
+Obviously there's limited real estate on the bill message itself.
+1:32:38.600 --> 1:32:39.820
+Robert Ruggiero
+So this is the website.
+1:32:39.830 --> 1:32:50.220
+Robert Ruggiero
+Here we see if I get the window working correctly and we go that lake is live, we'll make sure you guys have a copy of it.
+1:32:51.700 --> 1:33:2.770
+Robert Ruggiero
+It does a lot more detailed information than it was shown on the screen before, but it gives you a good explanation of what it is, why we're doing it and it gives instructions on what to do if you decide to opt out.
+1:33:2.820 --> 1:33:6.370
+Robert Ruggiero
+So if you decide to opt out, they were going to call the support team.
+1:33:6.380 --> 1:33:7.540
+Robert Ruggiero
+There's 800 number there.
+1:33:8.960 --> 1:33:9.400
+Robert Ruggiero
+Umm.
+1:33:10.930 --> 1:33:21.70
+Robert Ruggiero
+And the support team will be, you know, there will be asking the questions, which is basically helping them fill out this due to loss form.
+1:33:21.80 --> 1:33:22.330
+Robert Ruggiero
+Hopefully this works as well.
+1:33:22.640 --> 1:33:24.180
+Robert Ruggiero
+See how grip my links are right now?
+1:33:25.200 --> 1:33:25.640
+Robert Ruggiero
+Umm.
+1:33:26.90 --> 1:33:28.110
+Robert Ruggiero
+Limited information what they're looking for, right.
+1:33:28.120 --> 1:33:28.890
+Robert Ruggiero
+Customer name.
+1:33:28.900 --> 1:33:31.690
+Robert Ruggiero
+The account number, OK, customer needs to know their account number.
+1:33:31.700 --> 1:33:32.170
+Robert Ruggiero
+Right.
+1:33:32.960 --> 1:33:37.440
+Robert Ruggiero
+Who they are the date and then you know why they want to opt out.
+1:33:37.690 --> 1:33:39.320
+Robert Ruggiero
+And that's really what they're looking for.
+1:33:39.330 --> 1:33:51.960
+Robert Ruggiero
+So this is not this is not really a place for us to where to try and obviously convince them to stay, but we're not gonna be arguing with with them if they if they say I want to opt out so.
+1:34:1.270 --> 1:34:1.640
+Robert Ruggiero
+Yeah.
+1:33:54.990 --> 1:34:1.810
+Keith Lloyd
+Mark, I believe our contract states we have to give a 30 day notice to change any pricing to customer there from not mistaken.
+1:34:1.650 --> 1:34:2.360
+Robert Ruggiero
+So this went.
+1:34:2.410 --> 1:34:4.100
+Robert Ruggiero
+Yep, absolutely it does.
+1:34:4.350 --> 1:34:8.400
+Robert Ruggiero
+This went this started going out the first invoice that went out was July 1st invoice.
+1:34:8.410 --> 1:34:14.350
+Robert Ruggiero
+So we'll do it through July invoice and the August invoice and we expect to actually apply this in September invoice.
+1:34:16.590 --> 1:34:18.360
+Robert Ruggiero
+So message will go out.
+1:34:18.370 --> 1:34:20.470
+Robert Ruggiero
+Customers may or may not notice.
+1:34:20.480 --> 1:34:30.100
+Robert Ruggiero
+They probably won't notice an impact on their invoice until at Lisa September time frame and even at that that increase is probably is less for the most part is less than 10%.
+1:34:30.110 --> 1:34:33.990
+Robert Ruggiero
+So it may not actually draw their eye to the change at all.
+1:34:42.540 --> 1:34:43.20
+Robert Ruggiero
+Correct.
+1:34:43.430 --> 1:34:43.690
+Robert Ruggiero
+Correct.
+1:34:38.140 --> 1:34:43.970
+Keith Lloyd
+So our D Dash product does not require a router at the edge, correct? OK.
+1:34:44.760 --> 1:34:54.770
+Robert Ruggiero
+Umm, it will be something that you can actually it it it at some point you know probably when we release new catalog it'll be it'll be something that you can add on to every single Internet.
+1:34:56.690 --> 1:35:2.860
+Robert Ruggiero
+I'm service silt so any so every single Internet connection sold you can add add on to it DDoS protection.
+1:35:3.740 --> 1:35:4.60
+Keith Lloyd
+OK.
+1:35:4.70 --> 1:35:4.450
+Keith Lloyd
+Thank you.
+1:35:4.550 --> 1:35:6.230
+Joshua Moore
+Well, this may be a billing question.
+1:35:7.570 --> 1:35:8.200
+Joshua Moore
+Ohm.
+1:35:9.20 --> 1:35:10.250
+Joshua Moore
+Is this gonna be?
+1:35:10.300 --> 1:35:16.210
+Joshua Moore
+Is this gonna show up under the the regular and the regular section of the billing?
+1:35:16.220 --> 1:35:18.870
+Joshua Moore
+Or is it going to be under like the taxes and fees, that kind of thing?
+1:35:18.880 --> 1:35:20.210
+Joshua Moore
+Where will it be listed on the billing?
+1:35:23.100 --> 1:35:24.70
+Robert Ruggiero
+That's a good question.
+1:35:24.120 --> 1:35:33.300
+Robert Ruggiero
+I think my takeaway from this, Jeremy, is that is to make sure that you guys have a E visualization of what that mock or what that invoice looks like.
+1:35:34.780 --> 1:35:40.370
+Robert Ruggiero
+I I don't wanna commit to an answer because I'm not 100% positive it is a surcharge though.
+1:35:43.740 --> 1:35:44.630
+Robert Ruggiero
+But I'm all I'll.
+1:35:44.680 --> 1:35:49.370
+Robert Ruggiero
+I'll get with billing team and see if we can post something about a A. You know what?
+1:35:49.380 --> 1:35:50.990
+Robert Ruggiero
+The invoice might possibly look like.
+1:35:59.380 --> 1:36:2.70
+Andrew Taylor
+For the premier Internet, OK, it's.
+1:36:2.380 --> 1:36:5.10
+Andrew Taylor
+And this this is 40 bucks a month.
+1:36:5.200 --> 1:36:8.110
+Andrew Taylor
+Doesn't matter if they're 100 man or 10 gig.
+1:36:8.360 --> 1:36:9.320
+Andrew Taylor
+It's 40 bucks a month.
+1:36:10.320 --> 1:36:10.910
+Robert Ruggiero
+Correct.
+1:36:16.390 --> 1:36:17.521
+Blake Gunn
+And really get this E.
+1:36:11.500 --> 1:36:22.210
+Robert Ruggiero
+I will tell you because you're you have a you have a history of selling larger circuits you you can get a lot more than $40.00 for it 100% get a lot more to 40 bucks for it.
+1:36:22.220 --> 1:36:31.590
+Robert Ruggiero
+So when you start talking about 1 gig and above circuits, try maximize your dollars because people think it's a huge benefit in $40 is probably underselling it.
+1:36:33.580 --> 1:36:34.250
+Andrew Taylor
+Correct.
+1:36:34.370 --> 1:36:34.820
+Andrew Taylor
+Yeah.
+1:36:33.570 --> 1:36:35.230
+Todd Smith
+But but isn't this is her charge.
+1:36:35.90 --> 1:36:35.750
+Andrew Taylor
+It it, it isn't.
+1:36:37.120 --> 1:36:37.590
+Robert Ruggiero
+When, when?
+1:36:37.600 --> 1:36:41.190
+Robert Ruggiero
+When you get when you start selling from new catalog and it's a product that goes along with it.
+1:36:44.440 --> 1:36:45.310
+Robert Ruggiero
+And look at these things.
+1:36:49.600 --> 1:36:51.170
+Andrew Taylor
+And this will be per serving.
+1:36:45.320 --> 1:36:52.210
+Robert Ruggiero
+But existing customers is a surcharge when you start selling this to new to new customers, it's a product.
+1:36:55.840 --> 1:36:57.190
+Andrew Taylor
+Well it be per circuit.
+1:36:57.980 --> 1:37:0.470
+Robert Ruggiero
+Yeah, E umm.
+1:36:57.200 --> 1:37:10.420
+Andrew Taylor
+So for example, multilocation Maggie land, they got a primary circuit and have a secondary circuit, another location, and there needs to be to on the bill, one for each of the the BI's.
+1:37:12.70 --> 1:37:12.410
+Robert Ruggiero
+Right.
+1:37:12.420 --> 1:37:12.650
+Robert Ruggiero
+Yeah.
+1:37:16.520 --> 1:37:16.940
+Courtney Meadows
+Hey, Bob.
+1:37:12.660 --> 1:37:24.240
+Robert Ruggiero
+11 for each Internet circuit then you could probably you could probably just design it so that you can hang it back off of 1 problem Internet circuit multi locations and minimize that but that's a discussion to have with Russia.
+1:37:27.70 --> 1:37:27.410
+Rusty Bunton
+Umm.
+1:37:28.330 --> 1:37:28.630
+Andrew Taylor
+Ohh.
+1:37:28.300 --> 1:37:31.720
+Courtney Meadows
+So when I renew a customer and it's already so it becomes a surcharge.
+1:37:31.730 --> 1:37:36.210
+Courtney Meadows
+When you first add it, but then I renew them, it's then going to be moved to an actual product.
+1:37:36.620 --> 1:37:37.260
+Courtney Meadows
+Is what you're saying?
+1:37:38.520 --> 1:37:40.150
+Robert Ruggiero
+Yes, it will.
+1:37:40.270 --> 1:37:40.510
+Courtney Meadows
+OK.
+1:37:40.560 --> 1:37:46.860
+Robert Ruggiero
+I think we we need to have a broader discussion about Max Courtney at some point in time because I think it impacts you get more than most other people.
+1:37:48.250 --> 1:37:54.880
+Robert Ruggiero
+But when you do renew it, if you're you'll be renewing on the new catalog and it would turn from a surcharge to A to A to a regular charge.
+1:37:56.120 --> 1:37:56.470
+Courtney Meadows
+OK.
+1:37:56.560 --> 1:37:56.960
+Courtney Meadows
+Thank you.
+1:38:1.150 --> 1:38:4.630
+Rusty Wilson
+To all this additional revenue that retires our quota, right?
+1:38:10.540 --> 1:38:11.170
+Robert Ruggiero
+Ohh boy.
+1:38:11.670 --> 1:38:12.180
+Rusty Wilson
+Yeah, I try.
+1:38:11.940 --> 1:38:13.90
+Rusty Bunton
+I don't know why he's laughing.
+1:38:16.500 --> 1:38:35.260
+Robert Ruggiero
+It can make it easier for you to retire your quote because looking this way you can sell managed land and you can you know that that's this no revenue that you can get on to an account to help retire your quota and it provides a benefit and at some point you'll be able to sell you know managed Doss as a as a separate line item which is another easy way to help retire your your quota.
+1:38:35.310 --> 1:38:38.560
+Robert Ruggiero
+So just looking out for your rusty.
+1:38:37.630 --> 1:38:49.820
+Speaker 2
+So Bob, are you saying we're gonna build these customers this automatically and they have to be upset and call us to get it taken off?
+1:38:50.170 --> 1:38:51.790
+Speaker 2
+I think maybe I'm misunderstanding.
+1:38:53.440 --> 1:38:54.250
+Robert Ruggiero
+I think you nailed it.
+1:38:54.260 --> 1:38:58.470
+Robert Ruggiero
+You you were you're you're probably not as soft as I put it.
+1:38:58.480 --> 1:38:59.630
+Robert Ruggiero
+But yeah, that's that's about right.
+1:39:1.270 --> 1:39:7.740
+Robert Ruggiero
+We will build them automatically on the beginning of their September invoice and they have the ability to opt out or call in and say I don't want it.
+1:39:8.630 --> 1:39:8.900
+Robert Ruggiero
+Umm.
+1:39:8.910 --> 1:39:9.580
+Robert Ruggiero
+And then we will.
+1:39:8.770 --> 1:39:20.150
+Speaker 2
+Is there any way we could proactively get a list of the people this will impact and call them and try to get them to either agree or opt out before?
+1:39:24.400 --> 1:39:26.570
+Robert Ruggiero
+I mean the song we can look into.
+1:39:26.820 --> 1:39:31.670
+Robert Ruggiero
+I mean, think of it this way, I would say that 95% of our customers are Internet customers.
+1:39:32.910 --> 1:39:44.160
+Robert Ruggiero
+So you would be calling a lot of customers within your markets and to talk to them about emotions that aren't, umm, specifically geared to adding revenue to the Conterra bottom line.
+1:39:46.270 --> 1:39:57.330
+Robert Ruggiero
+So I I think the most efficient way of doing it would be to continue with, umm the E you umm you know, build message and reaction every stance.
+1:39:57.760 --> 1:40:4.880
+Robert Ruggiero
+But we can definitely look into getting new a list of larger customers if you wanna spend the this cycles to call them.
+1:40:6.300 --> 1:40:9.430
+Speaker 2
+And does this also mean that we are doing some filtering?
+1:40:9.440 --> 1:40:20.480
+Speaker 2
+I think some of the messaging that we've sent out before is that can Tara doesn't in any way uh monitor, filter or mess with your your data traffic.
+1:40:23.570 --> 1:40:26.970
+Speaker 2
+Does this mean that now we do some content filtering?
+1:40:26.980 --> 1:40:29.540
+Speaker 2
+Or, I mean, obviously we'd have to, right?
+1:40:28.520 --> 1:40:29.690
+Robert Ruggiero
+The yeah, we're.
+1:40:30.240 --> 1:40:36.490
+Robert Ruggiero
+Yeah, it doesn't work cause we're not monitoring, we're not filtering content.
+1:40:37.50 --> 1:40:42.100
+Robert Ruggiero
+We're actually, we're actually looking at IP address ranges and treating them.
+1:40:44.700 --> 1:40:47.840
+Robert Ruggiero
+We we're, I wouldn't call it filtering.
+1:40:47.890 --> 1:40:57.570
+Robert Ruggiero
+We're we're we're looking at IP address ranges for behaviors that look like DDoS attacks and and and separating that out or mitigating it, umm, so it has nothing to do with content.
+1:41:1.190 --> 1:41:1.450
+Speaker 2
+OK.
+1:41:1.170 --> 1:41:1.860
+Grant Sullivan
+That's right.
+1:41:1.970 --> 1:41:3.490
+Grant Sullivan
+Except was that Stephanie that was talking.
+1:41:3.990 --> 1:41:4.730
+Speaker 2
+Yeah, it was.
+1:41:5.350 --> 1:41:5.740
+Grant Sullivan
+Yeah.
+1:41:5.750 --> 1:41:18.400
+Grant Sullivan
+So Stephanie, you know, in in all essence, you know, I would you know, if you have strategic customers that you wanna, you know hit up in advance, you know we you know certainly should, you know encourage that that if you want to call them and talk to them about it or whatever, whatever.
+1:41:18.410 --> 1:41:30.430
+Grant Sullivan
+And let them know that it's coming and then we can have some discussions with your sales engineers or whatever about the benefit of keeping it and having it, I think that would be that would be Tom will spin, right?
+1:41:32.130 --> 1:41:32.680
+Speaker 2
+Agreed.
+1:41:32.690 --> 1:41:51.550
+Speaker 2
+I think it's a conversation that opens up an opportunity to talk about a lot of additional products without waiting until they're angry that we added a fee just to see if they don't notice, you know, so proactively call them and say, you know, we're a different provider than we were when you first signed up.
+1:41:51.560 --> 1:41:57.270
+Speaker 2
+And we have a lot of different products it could, it could lead to a lot of upsell opportunity.
+1:41:58.440 --> 1:42:0.500
+Speaker 2
+And Rusty's question, I think was valid.
+1:42:0.510 --> 1:42:11.450
+Speaker 2
+Is there an opportunity to retire quota with this or sell them additional service that would retire quota?
+1:42:13.600 --> 1:42:14.40
+Rusty Bunton
+Agree.
+1:42:19.350 --> 1:42:21.230
+Grant Sullivan
+You talk about our existing embedded base.
+1:42:22.680 --> 1:42:32.310
+Speaker 2
+Or I mean even with this with this D DOS trying to find a way to to make it to where we can earn additional revenue because of this motion.
+1:42:33.880 --> 1:42:44.330
+Robert Ruggiero
+Umm yeah, I I think just if I wasn't me wasn't, you know, reiterate this, this will be a product that you could sell.
+1:42:45.40 --> 1:42:55.120
+Robert Ruggiero
+It'll it'll probably it'll happen with the new catalogs released at the end of August, we may be able to try and do something earlier than that and that'll help you retire quota.
+1:42:55.130 --> 1:42:58.40
+Robert Ruggiero
+So it will not consistently live as a surcharge.
+1:42:58.50 --> 1:43:1.690
+Robert Ruggiero
+It does live as a surcharge for existing customers.
+1:43:5.440 --> 1:43:12.140
+Keith Lloyd
+So the existing customer, if they have an incremental increase in their monthly recurring billing, we can't use that to retire anybodys goal, right?
+1:43:20.970 --> 1:43:21.160
+Grant Sullivan
+Yeah.
+1:43:20.270 --> 1:43:21.240
+Robert Ruggiero
+And just say someone on that.
+1:43:21.250 --> 1:43:22.660
+Robert Ruggiero
+It's gonna say that's a good sales question.
+1:43:22.710 --> 1:43:24.990
+Robert Ruggiero
+Maybe we should have Adrian press that.
+1:43:27.140 --> 1:43:28.970
+Keith Lloyd
+That's what the question is here guys.
+1:43:29.260 --> 1:43:30.500
+Robert Ruggiero
+Umm OK.
+1:43:30.110 --> 1:43:30.830
+Michael Brady
+That is correct.
+1:43:32.10 --> 1:43:32.960
+Michael Brady
+Keith, that is correct.
+1:43:35.830 --> 1:43:38.330
+Jorge Barrera
+Well guys, I believe we are going to.
+1:43:37.550 --> 1:43:40.320
+Keith Lloyd
+Correct that it will not retire, go or will.
+1:43:40.390 --> 1:43:41.70
+Keith Lloyd
+I'm sorry I didn't.
+1:43:46.800 --> 1:43:46.990
+Keith Lloyd
+Yep.
+1:43:40.700 --> 1:43:49.360
+Michael Brady
+Exit that correct these surcharge part of this which is going against the embedded base an opt out environment will not retire quota.
+1:43:49.970 --> 1:43:50.190
+Keith Lloyd
+OK.
+1:43:49.850 --> 1:43:59.440
+Michael Brady
+All new customers sales up upsell sales go forward, will retire court post September 1st.
+1:44:1.10 --> 1:44:1.380
+Keith Lloyd
+OK.
+1:44:1.390 --> 1:44:1.710
+Keith Lloyd
+Thank you.
+1:44:1.40 --> 1:44:6.850
+Michael Brady
+Product will not be launched until September 1st, so post September 1st it will retire quota.
+1:44:10.470 --> 1:44:19.640
+Tracy Vincent
+When I go in two months billing so or in situations where their billing goes to a corporate address and they're gonna have some situations there, it probably just one offs.
+1:44:19.650 --> 1:44:25.790
+Tracy Vincent
+But is it gonna just be in that one month billing payment?
+1:44:28.770 --> 1:44:29.160
+Robert Ruggiero
+So.
+1:44:29.170 --> 1:44:32.600
+Robert Ruggiero
+So Tracy is gonna be it's gonna remain on the on the invoice.
+1:44:32.670 --> 1:44:42.810
+Robert Ruggiero
+We don't plan on taking it off until after September invoice is released, but it is possible that we continue to have it on there for a month after, but they'll get at least two months notification.
+1:44:47.380 --> 1:44:55.270
+Andrew Taylor
+Is this service work only for a conterra owned IP addresses or the customers running BGP with their own IP space?
+1:44:55.580 --> 1:44:56.560
+Andrew Taylor
+It'll work there as well.
+1:45:8.260 --> 1:45:16.630
+Robert Ruggiero
+I wanna see Conterra only I will verify with engineering team and get back to you on that.
+1:45:17.660 --> 1:45:21.170
+Hayden Tuttle
+Ohh yeah Bob, I I'm gonna go out on a limb here.
+1:45:21.230 --> 1:45:35.50
+Hayden Tuttle
+We typically even if the customer is using their own IP space, will have a peering IP with and Tara owned IP range, which we can use to monitor the the DDoS.
+1:45:36.650 --> 1:45:37.70
+Robert Ruggiero
+Thank you.
+1:45:37.970 --> 1:45:38.150
+Hayden Tuttle
+Yeah.
+1:45:38.130 --> 1:45:39.280
+Grant Sullivan
+Yeah, I think that's right.
+1:45:39.290 --> 1:45:41.960
+Grant Sullivan
+And then you know, it's protected at the edge of our period point.
+1:45:41.970 --> 1:45:46.340
+Grant Sullivan
+So I think anything that the traverses through those IP's, yes.
+1:45:49.120 --> 1:45:50.900
+Tracy Vincent
+We don't do DHCP anymore.
+1:45:49.160 --> 1:45:51.400
+Grant Sullivan
+Well, we will confirm Temple.
+1:45:54.200 --> 1:45:55.170
+Rusty Bunton
+The Bob weekend.
+1:45:55.180 --> 1:45:58.970
+Rusty Bunton
+Uh, the customer could opt out, and then we could go talk to them.
+1:45:58.980 --> 1:46:2.200
+Rusty Bunton
+And then convince them to get the dedos and get credit for them, correct?
+1:46:4.930 --> 1:46:5.310
+Robert Ruggiero
+You could.
+1:46:6.860 --> 1:46:7.650
+Speaker 2
+And how much is it?
+1:46:9.700 --> 1:46:10.650
+Robert Ruggiero
+Yeah, it it.
+1:46:10.660 --> 1:46:21.270
+Robert Ruggiero
+It is for and for asymmetric customers is $15 per month and for symmetrical customers it's 40.
+1:46:21.280 --> 1:46:26.720
+Robert Ruggiero
+So in in today's world, if you sold them flex, it's $15.00 a month, and if you're sold them premiere, it's 40.
+1:46:28.510 --> 1:46:33.220
+Speaker 2
+And that will also have taxes and fees, USF and things like that on top of it.
+1:46:35.620 --> 1:46:41.930
+Robert Ruggiero
+I'm not sure what the E, but maybe yes, I'm not sure what the tax implications of them that MRC are yet.
+1:46:50.270 --> 1:46:50.570
+Speaker 2
+OK.
+1:46:43.300 --> 1:46:51.100
+Robert Ruggiero
+Umm, you haven't actually finished building it only because we don't need to apply it till September, but we'll have some answers on that.
+1:46:51.110 --> 1:46:52.340
+Robert Ruggiero
+Oh, we actually get closer to release.
+1:46:58.130 --> 1:46:58.440
+Robert Ruggiero
+Umm.
+1:46:54.690 --> 1:47:1.300
+Speaker 2
+OK, I'm trying to understand the impact of these smaller customers that you know, the ones that $2.00 makes a difference.
+1:47:1.590 --> 1:47:2.290
+Speaker 2
+Thank you for that.
+1:47:3.470 --> 1:47:4.70
+Speaker 2
+You'll let us know.
+1:47:6.750 --> 1:47:7.460
+Robert Ruggiero
+Yes, I will.
+1:47:7.960 --> 1:47:8.420
+Speaker 2
+OK, cool.
+1:47:7.470 --> 1:47:21.720
+Robert Ruggiero
+Yes, I because I think I mentioned earlier we we kind of owe you a picture of what it looks like on a customer's bill and so that that will that will be umm you know that image will contain things like like whether it's us self or federal charges so.
+1:47:34.530 --> 1:47:35.420
+Speaker 2
+That's a good question.
+1:47:35.430 --> 1:47:43.580
+Speaker 2
+In the chat, is there any SLA component if we miss AD DOS it's a really good question.
+1:47:55.60 --> 1:47:59.560
+Robert Ruggiero
+I don't think that there's any RSL is today.
+1:47:59.570 --> 1:48:5.681
+Robert Ruggiero
+Don't cover D dos so EAE.
+1:48:5.70 --> 1:48:20.140
+Speaker 2
+I think like specifically as it pertains to this product, if we're saying that we're gonna prevent these cyber attacks, how much are we liable for if they get attacked anyway and we charge them for that protection?
+1:48:19.130 --> 1:48:22.90
+Robert Ruggiero
+They're they're they're going to get attacked.
+1:48:22.100 --> 1:48:26.300
+Robert Ruggiero
+I I think at the end of the day, what we're doing is we're telling them that we're mitigating that attack.
+1:48:27.90 --> 1:48:27.440
+Robert Ruggiero
+Umm.
+1:48:28.110 --> 1:48:35.100
+Robert Ruggiero
+On their behalf so that they're not feeling the impact of that attack on the Internet bandwidth.
+1:48:36.840 --> 1:48:39.10
+Robert Ruggiero
+So we're isolating and mitigating it for them.
+1:48:39.460 --> 1:48:40.810
+Robert Ruggiero
+We're not. We're not.
+1:48:41.20 --> 1:48:44.990
+Robert Ruggiero
+We're not telling the customer that they're not gonna get details attacked.
+1:48:46.710 --> 1:48:55.870
+Robert Ruggiero
+We're we're just protecting that them from the impact of that is close to the Internet peering pointer handoff as possible.
+1:48:55.880 --> 1:49:4.690
+Robert Ruggiero
+So we are we are protecting that 100 Meg bandwidth for example, so that it's only bandwidth that's that's that's clean.
+1:49:7.890 --> 1:49:8.680
+Grant Sullivan
+Yeah, that's right.
+1:49:8.690 --> 1:49:10.210
+Grant Sullivan
+And you know, Stephanie, there's.
+1:49:11.750 --> 1:49:15.680
+Grant Sullivan
+There's all kinds of information out there that we need to get to you guys about.
+1:49:15.770 --> 1:49:20.670
+Grant Sullivan
+You know how common these tasks are are actually more common.
+1:49:20.680 --> 1:49:39.900
+Grant Sullivan
+You probably think the impact to a customer, even a small businesses, what happens to them when a DDoS attack actually occurs and they can't process payments and do this and all that kind of stuff, we need to get all that information to you so that you have that in your arsenal to be able to talk to your customers about.
+1:49:42.660 --> 1:49:43.810
+Grant Sullivan
+But like to boss point.
+1:49:43.10 --> 1:49:45.840
+Speaker 2
+At one point I had a statistic like 4%.
+1:49:45.850 --> 1:49:48.960
+Speaker 2
+It costs 4% to protect yourself against an attack.
+1:49:48.970 --> 1:50:1.140
+Speaker 2
+I mean the average cost of an attack, things like that are really powerful from a sales standpoint to be able to to say, look, it's $15.00, but imagine if you can't process transactions for an entire day, what is your business?
+1:50:1.150 --> 1:50:3.450
+Speaker 2
+Lose 100 grams a day.
+1:50:3.990 --> 1:50:4.190
+Grant Sullivan
+Yeah.
+1:50:3.690 --> 1:50:9.310
+Speaker 2
+All those business owners like to boast about that, so any any information you can arm us with would be very helpful.
+1:50:10.560 --> 1:50:10.930
+Grant Sullivan
+Yeah.
+1:50:10.940 --> 1:50:13.130
+Grant Sullivan
+And I'll give you a just a real quick example.
+1:50:13.140 --> 1:50:25.920
+Grant Sullivan
+At a previous company, there was a kid that didn't wanna take his his high school testing that week of school and went on the black market, bought a $50.00 details attack and took down the servers for four days.
+1:50:26.900 --> 1:50:35.980
+Grant Sullivan
+And so that us at the other company did not have a active DDoS scrubbing mitigation product.
+1:50:35.990 --> 1:50:37.160
+Grant Sullivan
+We just took it in black.
+1:50:37.170 --> 1:50:44.630
+Grant Sullivan
+Hold them to not affect other customers and you know the school system was was pretty upset about that.
+1:50:44.640 --> 1:50:51.510
+Grant Sullivan
+So that's, that's the kind of stuff that can be super detrimental to a customer's business, right?
+1:50:51.560 --> 1:50:53.440
+Grant Sullivan
+And we need to arm you guys with that information.
+1:50:53.450 --> 1:50:58.110
+Grant Sullivan
+So you have it, but this is a huge thing that we're putting in for protection for our customers.
+1:50:58.120 --> 1:51:7.60
+Grant Sullivan
+And you know, we do need to, you know, it is a item that we do need to to get some revenue for.
+1:51:7.670 --> 1:51:14.160
+Grant Sullivan
+At the same time, so it is a value add, but it makes their internets strong, dependable.
+1:51:14.170 --> 1:51:18.800
+Grant Sullivan
+And you know, Brady, now go back and forth about what to call it clean Internet or something like that.
+1:51:18.810 --> 1:51:25.710
+Grant Sullivan
+But he has all kinds of cool names for it, but it it's really going to fortify.
+1:51:26.720 --> 1:51:36.810
+Grant Sullivan
+Umm, the Internet product and and make us different from other customers cause a lot of other service providers don't include this or not at the charge that that we're charging for it.
+1:51:37.40 --> 1:51:41.450
+Grant Sullivan
+I think it lumen for you know, a couple 100 mags are up to a gig service.
+1:51:41.460 --> 1:51:43.870
+Grant Sullivan
+They're charging $1000 a month, something like that.
+1:51:43.880 --> 1:51:46.450
+Grant Sullivan
+Something crazy for that separately.
+1:51:47.200 --> 1:51:50.780
+Grant Sullivan
+So it's just we're taking a different model.
+1:51:50.790 --> 1:51:53.880
+Grant Sullivan
+Look at it versus how other telecom companies are doing it.
+1:51:55.310 --> 1:51:57.970
+Grant Sullivan
+So it's going to separate you in in your, in your local markets I think.
+1:51:59.120 --> 1:52:0.731
+Speaker 2
+Can you get us some of the E?
+1:51:58.810 --> 1:52:1.70
+Keith Lloyd
+Yeah, this will change the narrative for sure.
+1:52:2.290 --> 1:52:3.0
+Speaker 2
+I'm sorry, go ahead.
+1:52:2.60 --> 1:52:6.580
+Keith Lloyd
+This will change the narrative of the conversation that you have with your customer.
+1:52:6.780 --> 1:52:7.70
+Adrian Garcia
+Yep.
+1:52:6.850 --> 1:52:8.320
+Keith Lloyd
+Being able to offer these products.
+1:52:12.90 --> 1:52:13.530
+Adrian Garcia
+Yeah, I mean that's that's that's.
+1:52:12.540 --> 1:52:14.390
+Speaker 2
+Can you get us any of the information?
+1:52:14.400 --> 1:52:19.650
+Speaker 2
+Like what other providers do up from a smaller business standpoint on on this?
+1:52:19.660 --> 1:52:23.200
+Speaker 2
+Like what they charge or or if they do it or don't do it type of thing.
+1:52:25.850 --> 1:52:26.700
+Grant Sullivan
+Yeah, absolutely.
+1:52:26.710 --> 1:52:27.180
+Grant Sullivan
+Must.
+1:52:27.230 --> 1:52:27.500
+Grant Sullivan
+Yeah.
+1:52:27.510 --> 1:52:29.640
+Grant Sullivan
+And I'll tell you, most competitors don't.
+1:52:30.460 --> 1:52:34.780
+Grant Sullivan
+They charge for it, but they charge one off and they charge lots of money for it.
+1:52:36.100 --> 1:52:36.340
+Adrian Garcia
+Yep.
+1:52:39.260 --> 1:52:39.690
+Michael Brady
+Yeah, here.
+1:52:38.870 --> 1:52:39.970
+Rusty Wilson
+So so back.
+1:52:39.940 --> 1:52:41.210
+Grant Sullivan
+It's because it's expensive.
+1:52:39.700 --> 1:52:48.30
+Michael Brady
+There's a big difference between active active and non active, so the on demand videos is not expensive.
+1:52:48.860 --> 1:52:57.870
+Michael Brady
+Active dedos is expensive, so when you go out and you look at all this stuff, you're gonna see you're gonna see a plethora of ways people charge for this.
+1:52:58.500 --> 1:53:0.300
+Michael Brady
+People charge for it on bandwidth.
+1:53:0.310 --> 1:53:1.830
+Michael Brady
+People charge for it at port levels.
+1:53:1.840 --> 1:53:4.190
+Michael Brady
+People charge for it at incidence levels.
+1:53:4.300 --> 1:53:18.20
+Michael Brady
+People charge for that hourly, so big customers with 10 gig ports, they get hit as you black hole it you and you, you mitigate it and someone out else is out there trying to figure out what's going on.
+1:53:18.730 --> 1:53:20.800
+Michael Brady
+You know, there's all sorts of ways to change this.
+1:53:20.810 --> 1:53:30.290
+Michael Brady
+This is a simplified way for us to give a different level of security across all of our IP ports to everybody that we have right.
+1:53:30.340 --> 1:53:34.770
+Michael Brady
+It is an opt out opt in environment right?
+1:53:34.820 --> 1:53:41.810
+Michael Brady
+And it's a something that you can sell as a value going forward or giving you two months a heads up here.
+1:53:41.900 --> 1:53:48.210
+Michael Brady
+So if you do get a call or if somebody ask you now know what's going on, right?
+1:53:48.220 --> 1:53:50.610
+Michael Brady
+I mean, truly, it's been out there for seven days.
+1:53:51.200 --> 1:53:56.610
+Michael Brady
+First build cycle was July 1st so now you have a heads up here you know.
+1:53:56.620 --> 1:54:11.370
+Michael Brady
+But as we roll out all of this Fortinet platform guys, it is a cloud first, security, first platform, everything is about moving all applications to the cloud and all applications in the secured environment.
+1:54:12.80 --> 1:54:18.910
+Michael Brady
+So what we've done is we've taking that we've taken a service that we have on our backside that we utilize for our own protection.
+1:54:20.570 --> 1:54:30.500
+Michael Brady
+We've now made this forward facing to the customer, so we can now provide that at a customer level and our own across the platform.
+1:54:30.510 --> 1:54:37.800
+Michael Brady
+The Fortinet platform, which is the number one platform in the world right for cloud and security.
+1:54:38.50 --> 1:54:40.500
+Michael Brady
+So use that to your benefit to keys point.
+1:54:40.610 --> 1:54:42.240
+Michael Brady
+Change the conversation, guys.
+1:54:42.510 --> 1:54:44.820
+Michael Brady
+This is not a me too Internet port.
+1:54:44.830 --> 1:54:46.310
+Michael Brady
+We've never sold Me 2 Internet.
+1:54:47.620 --> 1:54:49.70
+Michael Brady
+We've always said we're different.
+1:54:49.600 --> 1:54:51.470
+Michael Brady
+We're trying to help that difference now.
+1:54:51.480 --> 1:54:59.910
+Michael Brady
+Now this one's gonna cost a little bit because there's massive value to it, but it two weeks just or two months of we have these discussions.
+1:55:0.80 --> 1:55:10.390
+Michael Brady
+So come September 1st, when you can sell it or the the actual charge surcharge hits a hits the invoice, you can be prepared for that.
+1:55:10.400 --> 1:55:13.650
+Michael Brady
+So these are great questions, great conversations.
+1:55:13.820 --> 1:55:15.170
+Michael Brady
+I love the engagement.
+1:55:15.180 --> 1:55:25.910
+Michael Brady
+So first time that we've caught your attention with something new, you know, and I think we've caught your attention because it's cyber and we've also caught your attention because there's a cost associated with it.
+1:55:25.920 --> 1:55:42.840
+Michael Brady
+So it's a combination of both, but think about this guys, as we go through this storytelling event that we're going through and we're changing our conversations with our customer, even the smallest mom and pop shop, right, let's just say they do $1000 a day or $500.00 a day.
+1:55:44.740 --> 1:55:47.890
+Michael Brady
+If they can't process that stuff, it costs them.
+1:55:48.40 --> 1:55:49.110
+Michael Brady
+That's their livelihood.
+1:55:49.940 --> 1:55:53.200
+Michael Brady
+We're trying to give them some level of protection with that we can't protect.
+1:55:53.210 --> 1:55:57.530
+Michael Brady
+You're never fully protected in today's world, but we can stop it.
+1:55:57.760 --> 1:56:1.530
+Michael Brady
+To where no longer you gotta 1000 people trying to pound 100.
+1:56:1.540 --> 1:56:4.950
+Michael Brady
+Make port and they can then do something different, right?
+1:56:5.40 --> 1:56:11.330
+Michael Brady
+They can go to the wireless backup that will then give them some level of service connectivity.
+1:56:11.560 --> 1:56:25.310
+Michael Brady
+They can use their cell phone, they can do something different, but they will know that there is a deed auto attack going on on their port and we can show them that all of the stuff that you see from a portal perspective that will be available in this service too, right.
+1:56:25.320 --> 1:56:29.780
+Michael Brady
+Grant will be able to give them kind of portal or visibility into uh.
+1:56:29.790 --> 1:56:35.330
+Michael Brady
+Any attacks or any of that sort of stuff as well, right in regions on their port or all the other stuff.
+1:56:35.340 --> 1:56:38.750
+Michael Brady
+So it's a pretty dynamic view that we're able to give to our customers.
+1:56:39.770 --> 1:56:43.860
+Michael Brady
+I don't know if you and we'll get you some of those examples too, guys, but great questions.
+1:56:43.50 --> 1:56:48.890
+Grant Sullivan
+Yeah, it does have a customer facing portal where they can go and log in and and look and all that kind of stuff.
+1:56:48.900 --> 1:56:51.700
+Grant Sullivan
+And that's some of the stuff with all the different portals.
+1:56:51.710 --> 1:57:2.710
+Grant Sullivan
+You know, views that we're gonna have with all of our new products, we've got to develop to develop a singular portal view so that everybody can just go and log into one thing and then be able to get to all the different products.
+1:57:7.680 --> 1:57:8.210
+Keith Lloyd
+That's why.
+1:57:5.800 --> 1:57:10.910
+Adrian Garcia
+And if I'm if I'm hearing this right, you know, it's it's it's to keep's point.
+1:57:10.920 --> 1:57:14.500
+Adrian Garcia
+It's how we deliver the message, so they call asking about it.
+1:57:14.550 --> 1:57:19.290
+Adrian Garcia
+It it basically if you were to come to me, Mr customer, I'd have to sell it to you at a high rate.
+1:57:20.210 --> 1:57:24.860
+Adrian Garcia
+As a company, we decided to offer to all of our customers at a significantly discounted rate.
+1:57:25.700 --> 1:57:30.500
+Adrian Garcia
+So you know, that's basically the way I see it, right, is that, that's accurate.
+1:57:30.510 --> 1:57:32.320
+Adrian Garcia
+We won't be able to sell it at that same charge.
+1:57:34.360 --> 1:57:36.50
+Grant Sullivan
+If, if we were not doing it that way.
+1:57:36.60 --> 1:57:37.90
+Grant Sullivan
+Adrian, you're exactly right.
+1:57:37.840 --> 1:57:38.0
+Adrian Garcia
+Yeah.
+1:57:43.880 --> 1:57:44.40
+Adrian Garcia
+Yeah.
+1:57:37.200 --> 1:57:45.990
+Grant Sullivan
+This the power of of a lot of folks, you know, opting into it is allowing us to to make it consumable for everybody at a lower charge, right?
+1:57:50.280 --> 1:57:50.660
+Adrian Garcia
+Great.
+1:57:46.60 --> 1:57:57.400
+Grant Sullivan
+Otherwise, I mean cause this several 100 thousands of dollars to to to put this in and every Internet peering point that we add going forward, we have to add equipment to those.
+1:57:57.410 --> 1:57:58.730
+Grant Sullivan
+So it's gonna be an active thing.
+1:57:58.740 --> 1:58:1.610
+Grant Sullivan
+It's not like one time and we're done, you know, spending capital on it.
+1:58:1.620 --> 1:58:8.280
+Grant Sullivan
+It's gonna be a capital investment every time we start we upgrade Internet, you know, drains and things like that.
+1:58:9.910 --> 1:58:11.240
+Adrian Garcia
+Yeah, right.
+1:58:11.60 --> 1:58:12.10
+Keith Lloyd
+Yeah, this is a good.
+1:58:12.20 --> 1:58:13.50
+Keith Lloyd
+This is a good thing.
+1:58:13.60 --> 1:58:13.270
+Keith Lloyd
+It's a.
+1:58:11.250 --> 1:58:18.580
+Adrian Garcia
+And I'm just saying from the customer customer message, it'd be it'd be more expensive if they would come to the sales team to get that kind of service.
+1:58:19.790 --> 1:58:20.860
+Adrian Garcia
+Then the opt out fees.
+1:58:20.870 --> 1:58:22.780
+Adrian Garcia
+What I'm saying right this message to the customer.
+1:58:24.110 --> 1:58:26.140
+Keith Lloyd
+Well, this is a really good thing for the customer.
+1:58:26.710 --> 1:58:26.910
+Adrian Garcia
+Yep.
+1:58:27.370 --> 1:58:28.920
+Keith Lloyd
+They may not realize it today.
+1:58:28.930 --> 1:58:38.930
+Keith Lloyd
+It's also a really good thing for conterra, so we need to, like I say, change the conversation, change the narrative to what it the benefits are of it.
+1:58:39.120 --> 1:58:41.170
+Keith Lloyd
+Not that I'm charging you $15.00 a month.
+1:58:45.220 --> 1:58:45.620
+Adrian Garcia
+That's right.
+1:58:49.320 --> 1:58:49.910
+Rusty Wilson
+Is there?
+1:58:49.960 --> 1:58:53.190
+Rusty Wilson
+Uh, I'd like to go back to the service level agreement.
+1:58:53.190 --> 1:59:9.820
+Rusty Wilson
+Like I I know that it's not part of that, but if I've paid three years at $50.00 a month for protection and I get hit with an attack it, that should be some kind of some kind of, I don't know.
+1:59:10.600 --> 1:59:16.100
+Rusty Wilson
+Uh settlement there to to say, hey, this is gonna be an there's gonna be a problem.
+1:59:16.910 --> 1:59:33.950
+Rusty Wilson
+I believe if that happens to them and we give them a month credit, I mean, is there something that we can come up with and say, hey, you know, because everything's 100%, but you know, we'll credit you for this month or whatever that that.
+1:59:33.300 --> 1:59:34.700
+Grant Sullivan
+Well, I think we have SLA's.
+1:59:35.510 --> 1:59:35.890
+Keith Lloyd
+We do.
+1:59:35.800 --> 1:59:38.800
+Grant Sullivan
+Around our Internet access already today, right?
+1:59:39.20 --> 1:59:39.210
+Rusty Wilson
+Yes.
+1:59:38.860 --> 1:59:40.380
+Keith Lloyd
+We we do, yes, we do.
+1:59:43.970 --> 1:59:44.480
+Rusty Wilson
+Oh, good.
+1:59:44.490 --> 1:59:44.880
+Rusty Wilson
+OK.
+1:59:40.820 --> 1:59:45.760
+Grant Sullivan
+I think they would fall within that same, you know that same line up, yeah.
+1:59:45.330 --> 1:59:46.90
+Rusty Wilson
+OK, great.
+1:59:48.200 --> 1:59:48.390
+Keith Lloyd
+Yeah.
+1:59:48.400 --> 1:59:54.950
+Keith Lloyd
+And I'm sure that the Teasing's will reflect those non liabilities regarding that service as well.
+1:59:54.960 --> 1:59:55.980
+Keith Lloyd
+I would hope that it does so.
+1:59:58.120 --> 1:59:58.760
+Grant Sullivan
+Yeah, that's right.
+1:59:58.770 --> 2:0:3.930
+Grant Sullivan
+And we're we're gonna have to change our teams and sees when we get to more and more security type things.
+2:0:4.280 --> 2:0:5.890
+Grant Sullivan
+So you'll see some of that stuff changing.
+2:0:5.900 --> 2:0:16.570
+Grant Sullivan
+We're working with what band and and those guys right now to to adjust some of that, but we'll let you guys know plenty ahead of time of what the wording is and how we're changing it and all that.
+2:0:19.40 --> 2:0:19.980
+Dagan Soileau
+Is there anything?
+2:0:19.10 --> 2:0:20.500
+Grant Sullivan
+I think somebody riser hands too.
+2:0:20.570 --> 2:0:20.940
+Grant Sullivan
+It was that.
+2:0:20.920 --> 2:0:41.850
+Dagan Soileau
+You asked me is there anything that we can do for those in flight orders that we say the ones we just signed, so they haven't been receiving the notices because they're not concurrent customer yet they haven't received any Billings yet that whenever they do finally get turned up in September, October, November, that all of a sudden now they're paying 15 or $40 more?
+2:0:41.960 --> 2:0:42.330
+Robert Ruggiero
+No.
+2:0:44.30 --> 2:0:44.940
+Rusty Wilson
+A good point.
+2:0:42.880 --> 2:0:48.40
+Dagan Soileau
+Than what we had originally signed them for in June and July, may you know.
+2:0:50.670 --> 2:0:51.460
+Rusty Wilson
+That's a great point.
+2:0:54.30 --> 2:1:4.870
+Dagan Soileau
+Maybe that could be something for the project coordinators to blast email blasts like hey, just a heads up, this is what's going to be happening by the time you get turned up when you first billing happens.
+2:1:5.800 --> 2:1:7.290
+Dagan Soileau
+This is going to be an extra charge on it.
+2:1:11.530 --> 2:1:13.970
+Grant Sullivan
+Yeah, that's that's a really good question.
+2:1:14.360 --> 2:1:21.330
+Grant Sullivan
+I don't know that I have the answer for that yet, but let me let me let me think about that and how we we need to to remedy that.
+2:1:24.950 --> 2:1:25.440
+Grant Sullivan
+Who was that?
+2:1:25.450 --> 2:1:25.790
+Grant Sullivan
+Asked that.
+2:1:29.90 --> 2:1:30.410
+Dagan Soileau
+That was me, Dagan swallow.
+2:1:30.480 --> 2:1:31.880
+Grant Sullivan
+Well, again, thanks Dagan.
+2:1:37.900 --> 2:1:38.700
+Grant Sullivan
+More common on that.
+2:1:38.710 --> 2:1:40.130
+Grant Sullivan
+I'll let let me get back to you on that one.
+2:1:48.990 --> 2:1:49.330
+Grant Sullivan
+Alright.
+2:1:48.470 --> 2:1:49.430
+Adrian Garcia
+Alright team, we.
+2:1:48.370 --> 2:1:50.580
+Speaker 2
+Is this going to impact anything like they're IT?
+2:1:50.590 --> 2:1:51.580
+Speaker 2
+People need to change.
+2:1:53.510 --> 2:1:53.750
+Grant Sullivan
+No.
+2:1:56.950 --> 2:1:57.410
+Grant Sullivan
+That happened.
+2:1:51.590 --> 2:1:59.930
+Speaker 2
+Like if they're doing somebody boy over the top or I mean we require that they have IT person put their routers and stuff in.
+2:2:1.350 --> 2:2:6.860
+Grant Sullivan
+No, this is this is all done at the core level at our peering points out to the Internet.
+2:2:6.870 --> 2:2:7.960
+Grant Sullivan
+So they don't have anything to.
+2:2:8.50 --> 2:2:9.0
+Grant Sullivan
+There's nothing needs to be done.
+2:2:11.880 --> 2:2:12.220
+Speaker 2
+Good deal.
+2:2:10.550 --> 2:2:19.430
+Grant Sullivan
+Basically what we're going to do, we're going slide in a piece of equipment in between our peering points and our network that'll be scrubbing the data coming through.
+2:2:26.80 --> 2:2:27.250
+Adrian Garcia
+All great questions.
+2:2:27.140 --> 2:2:27.660
+Courtney Meadows
+I have a question.
+2:2:27.260 --> 2:2:28.290
+Adrian Garcia
+Great conversation.
+2:2:28.360 --> 2:2:28.950
+Adrian Garcia
+We are over.
+2:2:28.960 --> 2:2:29.170
+Adrian Garcia
+Go ahead.
+2:2:30.770 --> 2:2:31.530
+Adrian Garcia
+Last one who's that?
+2:2:31.220 --> 2:2:37.960
+Courtney Meadows
+That first product that we talked about that's going to be required for analog lines, is that also going to be automatically implemented to all of our customers?
+2:2:40.340 --> 2:2:46.780
+Robert Ruggiero
+No, no, that that there's something that you would add for new opportunities to go forward?
+2:2:48.410 --> 2:2:48.740
+Robert Ruggiero
+Umm.
+2:2:48.500 --> 2:2:48.810
+Courtney Meadows
+OK.
+2:2:48.820 --> 2:2:49.570
+Courtney Meadows
+Or renewals. OK.
+2:2:49.880 --> 2:2:50.920
+Robert Ruggiero
+We'll renewals, yeah.
+2:2:53.10 --> 2:2:53.230
+Courtney Meadows
+OK.
+2:2:53.240 --> 2:2:53.750
+Courtney Meadows
+Thank you, Bob.
+2:2:54.280 --> 2:2:54.430
+Robert Ruggiero
+Yep.
+2:2:56.720 --> 2:3:2.590
+Grant Sullivan
+So feedback Adrian, I know you want to close this down, so I'm sure everybody's hungry too.
+2:3:2.600 --> 2:3:5.690
+Grant Sullivan
+I am too but feedback is very important, right?
+2:3:5.700 --> 2:3:14.680
+Grant Sullivan
+So I please don't be bashful to send Bob and myself feedback on on anything that we've discussed today.
+2:3:15.290 --> 2:3:17.10
+Grant Sullivan
+We wanna especially know, you know.
+2:3:18.810 --> 2:3:32.670
+Grant Sullivan
+The markets themselves and how they're reacting to the products and the pricing and all that kind of stuff, so don't be bashful, send us some information, more information, the better, right, so.
+2:3:36.510 --> 2:3:37.680
+Grant Sullivan
+It is up Adrian.
+2:3:37.690 --> 2:3:38.350
+Grant Sullivan
+I'll turn it over to you.
+2:3:37.930 --> 2:3:38.900
+Adrian Garcia
+Right. Yeah.
+2:3:38.910 --> 2:3:43.100
+Adrian Garcia
+No, I mean umm, I agree in Team conterra's changing.
+2:3:43.110 --> 2:3:49.970
+Adrian Garcia
+I mean we are, we are changing conversations, but we're also changing in what we offer and you know this, this is all great.
+2:3:49.980 --> 2:3:53.950
+Adrian Garcia
+This is all things that we've all been waiting for to be able to offer to our to our customers.
+2:3:53.960 --> 2:4:1.350
+Adrian Garcia
+So you know, Michael and Grant have been expediting that line, and I know it seems like a lot, but you know we're we're behind.
+2:4:1.460 --> 2:4:5.660
+Adrian Garcia
+You know, we've been wanting these services since and so one along time ago.
+2:4:5.670 --> 2:4:8.420
+Adrian Garcia
+So I'm excited to see these.
+2:4:8.430 --> 2:4:15.60
+Adrian Garcia
+You know, starting to starting to be available for us to offer to our customers and we need to start and continue to have those conversations with them.
+2:4:15.70 --> 2:4:18.170
+Adrian Garcia
+So we ran a little bit long as a good call.
+2:4:19.480 --> 2:4:20.950
+Adrian Garcia
+Appreciate everybody's sticking around.
+2:4:20.960 --> 2:4:34.680
+Adrian Garcia
+Appreciate all the visitors Michael and Grant and everybody who participated, you know, look forward to to talking to you guys, the new hires next week and we'll be visiting here soon.
+2:4:34.690 --> 2:4:39.890
+Adrian Garcia
+And I think the next call is going to be Michael's call before we get the to see each other again or talk to each other again.
+2:4:39.900 --> 2:4:41.350
+Adrian Garcia
+Again, thank you all.
+2:4:42.190 --> 2:4:43.720
+Adrian Garcia
+Have a great rest of your day.
+2:4:43.830 --> 2:4:44.560
+Adrian Garcia
+Talk to you soon.
+2:4:44.570 --> 2:4:45.30
+Adrian Garcia
+Go South.
+2:4:47.320 --> 2:4:48.70
+Grant Sullivan
+Thanks everybody.
+2:4:48.40 --> 2:4:48.570
+Albert Bischke
+Thank you.
+2:4:48.580 --> 2:4:48.830
+Albert Bischke
+Take care.
+2:4:48.540 --> 2:4:49.60
+Doug Boberg
+Thanks Adrian.
+2:4:49.300 --> 2:4:49.930
+Grant Sullivan
+And the weekend.
+2:4:49.590 --> 2:4:50.140
+Doug Boberg
+Thanks guys.
+2:4:50.330 --> 2:4:50.890
+Courtney Meadows
+Thank you.
+2:4:50.870 --> 2:4:51.110
+Holly Franklin
+Thanks.
+2:4:53.10 --> 2:4:53.980
+Speaker 2
+Thanks, grant.
+2:4:54.410 --> 2:4:55.50
+Speaker 2
+Thanks Bob.
+2:4:58.600 --> 2:4:59.790
++19152033436
+Read out on ghost.
+2:4:59.980 --> 2:5:0.360
++19152033436
+Thank you.
